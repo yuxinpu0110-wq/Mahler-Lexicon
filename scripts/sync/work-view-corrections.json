@@ -1,0 +1,10 @@
+{
+  "method": "Local visual comparison of the registered PDF and stable reference-video frames, 2026-10-27. PDF page numbers, not inferred measure numbers.",
+  "views": [
+    {"start":3792.5,"pages":[{"page":154,"bbox":[0,0,1,1]},{"page":155,"bbox":[0,0,1,1]}],"reason":"Stable frame at 3794s shows the Maestoso page 154 alongside page 155; automatic matcher found only the right page."},
+    {"start":4250,"pages":[{"page":184,"bbox":[0,0,1,1]}],"reason":"Stable frame after the cut matches rehearsal 28 on PDF page 184; reject the degenerate half-image homography."},
+    {"start":4672.5,"pages":[{"page":190,"bbox":[0,0,1,0.5]}],"reason":"Stable frame at 4675s shows rehearsal 35 / Wer du mich riefst, upper system of page 190."},
+    {"start":4717,"pages":[{"page":190,"bbox":[0,0.5,1,1]}],"reason":"Stable frame at 4719s shows rehearsal 36, lower system of page 190."},
+    {"start":5322,"pages":[{"page":208,"bbox":[0,0,1,1]},{"page":209,"bbox":[0,0,1,1]}],"reason":"Stable frames at 5325/5340/5360s show the final two pages, rehearsals 50 and 51; matcher found only page 209."}
+  ]
+}

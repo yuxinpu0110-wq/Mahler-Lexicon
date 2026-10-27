@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "id": "bernstein-nyp-dg-1987",
+    "title": "伯恩斯坦 · 纽约爱乐 · 1987 / DG",
+    "catalogue": "4233952 GH2",
+    "date": "1987-04-21",
+    "location": "New York City, Avery Fisher Hall",
+    "soloists": "Barbara Hendricks / Christa Ludwig",
+    "source": "https://leonardbernstein.com/discography?page=27",
+    "locator": "Symphony No. 2, Resurrection — DG, April 21, 1987",
+    "usage": "项目所有者已指定本录音作为项目资源，原件纳入Git，成品内置可播放副本。转码及分轨逐文件记录指纹。"
+  },
+  "score": {
+    "id": "mahler2-imslp415748-ue-scan",
+    "title": "IMSLP #415748 / Universal Edition 历史重印扫描",
+    "source": "https://imslp.org/wiki/Symphony_No.2,_GMW_30_(Mahler,_Gustav)",
+    "locator": "已核对第三乐章开头，印刷页80／本次PDF第80页",
+    "status": "opening_score_reviewed",
+    "usage": "仅开头谱页完成视觉核对；声音对应、动机关系和和声进行仍待核验。"
+  },
+  "research": [
+    {
+      "id": "fish-sermon",
+      "title": "第三乐章与《鱼的布道》",
+      "layer": "analysis",
+      "text": "Utah Symphony 的导听将第三乐章的素材与歌曲 Des Antonius von Padua Fischpredigt 联系起来；这是文字关联，具体谱段仍待比对。",
+      "source": "https://usuo.org/explore/2014/11/mahler-2-listening-guide/",
+      "locator": "Listening Guide for the Third Movement",
+      "status": "needs_review",
+      "next": "核对歌曲和交响曲的实际音型；记录谱段，并回听目标录音。"
+    },
+    {
+      "id": "finale-foreshadow",
+      "title": "第三乐章与终乐章开头的联系",
+      "layer": "analysis",
+      "text": "Mahler Foundation 的导听认为第三乐章中的爆发预示终乐章开头。尚未确定本项目中的出现范围或对应关系。",
+      "source": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+      "locator": "Transcript，开头与 Toward the end of the movement 段",
+      "status": "needs_review",
+      "next": "先核对谱面与声音；转录文本有误听词，不能直接当作谱面事实。"
+    }
+  ]
+}

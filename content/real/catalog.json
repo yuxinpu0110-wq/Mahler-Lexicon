@@ -1,0 +1,539 @@
+{
+  "kind": "real",
+  "edition": "mahler2-imslp415748-ue-scan",
+  "tracks": [
+    {
+      "id": "local-af428c1ce224da17b6c5",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:3dd0e0779bcdb5144d2a49079836ee6282336e89998b2f07cb4148ef41e9b2e9",
+      "movement": 1,
+      "duration": 421,
+      "url": "/audio/local-af428c1ce224da17b6c5.flac",
+      "source": "user-recording",
+      "label": "Ia. Mit Durchaus Ernstem Und Feierlichem Ausdruck",
+      "originalFingerprint": "sha256:af428c1ce224da17b6c53963b276059a25de348c8c6a0dd0b277c129c7a250d3"
+    },
+    {
+      "id": "local-4ad6f21508e9eb682eb3",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:3d5f1494e3ddfac51756ae6445814ba9ab3544c26fed553ef896c1f08c5ee029",
+      "movement": 1,
+      "duration": 350.36,
+      "url": "/audio/local-4ad6f21508e9eb682eb3.flac",
+      "source": "user-recording",
+      "label": "Ib. Sehr Mäßig Und Zurückhaltend",
+      "originalFingerprint": "sha256:4ad6f21508e9eb682eb3dbc5bb9b54d7d4392813d95bec3597a8b16ec7ae7f93"
+    },
+    {
+      "id": "local-7742fde63fb2f7975cdb",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:c9eaba88d882d9d5d89ff80d0f47fea2cb2dbdefa114dbdcdf218d25035a137d",
+      "movement": 1,
+      "duration": 224.2,
+      "url": "/audio/local-7742fde63fb2f7975cdb.flac",
+      "source": "user-recording",
+      "label": "Ic. Schnell",
+      "originalFingerprint": "sha256:7742fde63fb2f7975cdb86298bda1d187e37f4d28d26d1229b241534ba594271"
+    },
+    {
+      "id": "local-4bef93c292346251584e",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:01e296aa48d74618ec8ebe5ebbaa1e265bba407db68809be62d3dfb95ec9bb40",
+      "movement": 1,
+      "duration": 285.6,
+      "url": "/audio/local-4bef93c292346251584e.flac",
+      "source": "user-recording",
+      "label": "Id. Tempo I",
+      "originalFingerprint": "sha256:4bef93c292346251584e3fe89a3e4562b474381783bc71b77d5fdc1f902ee2ec"
+    },
+    {
+      "id": "local-0c6f6b49dcf3cdf30a2c",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b20423079fe6d4375acba0c2a410729932f1c65190e8c9ce3218e60597dbb111",
+      "movement": 1,
+      "duration": 212.84,
+      "url": "/audio/local-0c6f6b49dcf3cdf30a2c.flac",
+      "source": "user-recording",
+      "label": "Ie. Tempo Sostenuto",
+      "originalFingerprint": "sha256:0c6f6b49dcf3cdf30a2ced7edaf43ec843746e1a4c4e62b08a0019abac587441"
+    },
+    {
+      "id": "local-8f10a419e03ba54bbe28",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:e0e21ccd21a20916f086e442a73ee3d3c6ed445574920656d9c268538cbf4f71",
+      "movement": 2,
+      "duration": 104.66666666666667,
+      "url": "/audio/local-8f10a419e03ba54bbe28.flac",
+      "source": "user-recording",
+      "label": "IIa. Sehr Gemächlich",
+      "originalFingerprint": "sha256:8f10a419e03ba54bbe28b38b92a4f89aff53de52cb671ded1b667242ba7d6a4b"
+    },
+    {
+      "id": "local-09ba4e3ef9b45ea68983",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b535cb53fdce293ba131acbd059c429621dde190a71b69752b058b8f3ec731a7",
+      "movement": 2,
+      "duration": 108.46666666666667,
+      "url": "/audio/local-09ba4e3ef9b45ea68983.flac",
+      "source": "user-recording",
+      "label": "IIb. Nicht Eilen. Sehr Gemächlich",
+      "originalFingerprint": "sha256:09ba4e3ef9b45ea689838a15a3d2972de08cda9cfe7c5a6e36aba848bf9601e0"
+    },
+    {
+      "id": "local-92411c746d2cf0cf1e7e",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:c8bd0bf960b4f9ecd0044182d958171887e84b04e3658ba13a28457d51ee00a9",
+      "movement": 2,
+      "duration": 123.53333333333333,
+      "url": "/audio/local-92411c746d2cf0cf1e7e.flac",
+      "source": "user-recording",
+      "label": "IIc. In Tempo I Zurückkehren",
+      "originalFingerprint": "sha256:92411c746d2cf0cf1e7e6171860b968f9cb08d6ca6e1d6dd67e89b0297c41334"
+    },
+    {
+      "id": "local-fa96b4e473fc4f891314",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:97b19079dc96ba4ca7b644056021a01456b82b3804f0f49fd38b281e1aed32a0",
+      "movement": 2,
+      "duration": 146.33333333333334,
+      "url": "/audio/local-fa96b4e473fc4f891314.flac",
+      "source": "user-recording",
+      "label": "IId. Energisch Bewegt",
+      "originalFingerprint": "sha256:fa96b4e473fc4f89131439c190f08a997e4ede81f6a047e5447bd66ea2e29a16"
+    },
+    {
+      "id": "local-4fe87a1f53aa8d2bf96f",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:afbeadfb982d14eb85e01a86e2c63a3419cbd889fdfa09a8ddca35ea86b15f26",
+      "movement": 2,
+      "duration": 243,
+      "url": "/audio/local-4fe87a1f53aa8d2bf96f.flac",
+      "source": "user-recording",
+      "label": "IIe. Wieder Ins Tempo Zurückgehen. Tempo I",
+      "originalFingerprint": "sha256:4fe87a1f53aa8d2bf96f2ee9c867cd25185d2275caca0e45a5729d36df06a26f"
+    },
+    {
+      "id": "local-0f3c226755d962120939",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b6d50678846b4a1e6a89a59f04c3abb622885ee6518144c623c359d1a37b2ba4",
+      "movement": 3,
+      "duration": 300.8,
+      "url": "/audio/local-0f3c226755d962120939.flac",
+      "source": "user-recording",
+      "label": "IIIa. In Ruhiger Fließender Bewegung",
+      "originalFingerprint": "sha256:0f3c226755d962120939685370503f182cb3fa87514a21d60e18aa01ec5d3705"
+    },
+    {
+      "id": "local-97c5f0eefc9af8ac7140",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:2efe23cd8fdd4e134dac652ec15f410ad0ec0028b8fd89713dc009c33c6ea0ad",
+      "movement": 3,
+      "duration": 87.76,
+      "url": "/audio/local-97c5f0eefc9af8ac7140.flac",
+      "source": "user-recording",
+      "label": "IIIb. Sehr Getragen Und Gesangvoll",
+      "originalFingerprint": "sha256:97c5f0eefc9af8ac7140978b183d4b23e3956f8f583ffd7520225ef88135f9a2"
+    },
+    {
+      "id": "local-ce49f732f83e2f30b076",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b1082078ad72ce262a7ae86ed3a04e397015e97e6099e415a9d5cfdecbe2a48d",
+      "movement": 3,
+      "duration": 296.26666666666665,
+      "url": "/audio/local-ce49f732f83e2f30b076.flac",
+      "source": "user-recording",
+      "label": "IIIc. Zum Tempo I Zurückkehren",
+      "originalFingerprint": "sha256:ce49f732f83e2f30b076d66f9418853959fa1df9fc1e413a2290bb5f8d68ae88"
+    },
+    {
+      "id": "local-552cfd6e8802c900ac75",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+      "movement": 4,
+      "duration": 378.50666666666666,
+      "url": "/audio/local-552cfd6e8802c900ac75.flac",
+      "source": "user-recording",
+      "label": "IV. Sehr Feierlich, Aber Schlicht - \"O Röslein Rot\"",
+      "originalFingerprint": "sha256:552cfd6e8802c900ac7578510849b72c7f27f04c08bef765fad5f9b7bcc043b1"
+    },
+    {
+      "id": "local-6084694ec3606403fbaf",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:658384066396af5c6e5f863863d4f4698cb7de71bab0cf2157ffc44940a7fa6d",
+      "movement": 5,
+      "duration": 104.82666666666667,
+      "url": "/audio/local-6084694ec3606403fbaf.flac",
+      "source": "user-recording",
+      "label": "Va. Im Tempo Des Scherzos",
+      "originalFingerprint": "sha256:6084694ec3606403fbaff89df95b6917ced7f4aa531607105b324f2551e23132"
+    },
+    {
+      "id": "local-1c7a52ab58baf49f8123",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:194018b7d7a89e9243971db2b3168325d50d629968e4cbd513fe90227d2a8820",
+      "movement": 5,
+      "duration": 239.77333333333334,
+      "url": "/audio/local-1c7a52ab58baf49f8123.flac",
+      "source": "user-recording",
+      "label": "Vb. Langsam",
+      "originalFingerprint": "sha256:1c7a52ab58baf49f81233042d85d2fa335d3f1e28e79f9c137f09b55507d6b74"
+    },
+    {
+      "id": "local-53221946ed934e68a898",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:02cdc13913dd20cec30b43812ae268568fcd673db9c5d81ea93e2281465d054f",
+      "movement": 5,
+      "duration": 79.42666666666666,
+      "url": "/audio/local-53221946ed934e68a898.flac",
+      "source": "user-recording",
+      "label": "Vc. Am Anfang Sehr Zurückgehalten",
+      "originalFingerprint": "sha256:53221946ed934e68a898a094cbeec5fbe5e13cef0d1cbea9ac519fab1fc564ba"
+    },
+    {
+      "id": "local-083a152b2795c790a431",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b5a7f69e1155615a71fc09c426da0c1a91ca016914a6cd018e44c858a0aeae41",
+      "movement": 5,
+      "duration": 221.50666666666666,
+      "url": "/audio/local-083a152b2795c790a431.flac",
+      "source": "user-recording",
+      "label": "Vd. Wieder Sehr Breit",
+      "originalFingerprint": "sha256:083a152b2795c790a431947a3331f80bc845f96db2853a02077ae915c1a76ab9"
+    },
+    {
+      "id": "local-a04444d1d8bc1bd46580",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:91aaee4044b6f48493a331ae8965017a98ef9129000d014144450972ec3d902b",
+      "movement": 5,
+      "duration": 255.93333333333334,
+      "url": "/audio/local-a04444d1d8bc1bd46580.flac",
+      "source": "user-recording",
+      "label": "Ve. Molto Ritenuto. Maestoso",
+      "originalFingerprint": "sha256:a04444d1d8bc1bd46580edce97a01a72c729480decfd195e9b69914070ce2ba3"
+    },
+    {
+      "id": "local-80331ecb23d3b0c8077b",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:a9c7f425acbeeb199e3d02eddc0da0704ec7df7692605bc97be8d0b54482cd2e",
+      "movement": 5,
+      "duration": 238.62666666666667,
+      "url": "/audio/local-80331ecb23d3b0c8077b.flac",
+      "source": "user-recording",
+      "label": "Vf. Wieder Zurückhaltend",
+      "originalFingerprint": "sha256:80331ecb23d3b0c8077b72daa801081d9e0d304394e41c06bd0159f40d1b2e3e"
+    },
+    {
+      "id": "local-55478eb24e1bcd7e796a",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:92216b10cf2fd7762571e4c8b1c809f244bfb678c197933015e30be4465f6141",
+      "movement": 5,
+      "duration": 167.57333333333332,
+      "url": "/audio/local-55478eb24e1bcd7e796a.flac",
+      "source": "user-recording",
+      "label": "Vg. Sehr Langsam Und Gedehnt",
+      "originalFingerprint": "sha256:55478eb24e1bcd7e796a5e1785ba0cc2f59e9650919eaaa403984e89d88a9982"
+    },
+    {
+      "id": "local-c084e531f1489cd3496e",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:1b57ec4a364c826f843cad28842ea0819b38f20fdaa85e973b69275e75d6fbc4",
+      "movement": 5,
+      "duration": 250.02666666666667,
+      "url": "/audio/local-c084e531f1489cd3496e.flac",
+      "source": "user-recording",
+      "label": "Vh. Langsam. Misterioso - \"Auferstehen, Ja Auferstehen Wirst Du Gesät\"",
+      "originalFingerprint": "sha256:c084e531f1489cd3496e40a2d5c13ed75828217032885d024edc9af84285d7a9"
+    },
+    {
+      "id": "local-9fba2acb54dcaf550161",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:b8a736c840b67adae7b8d48c787b68c117bcc2c302da1ae3be7630a27dc9c7bf",
+      "movement": 5,
+      "duration": 237.30666666666667,
+      "url": "/audio/local-9fba2acb54dcaf550161.flac",
+      "source": "user-recording",
+      "label": "Vi. Langsam Ppp. Nicht Schleppen - \"Wieder Aufzublühn Wirst Du Gesät\"",
+      "originalFingerprint": "sha256:9fba2acb54dcaf550161c75ae8a87f501f080dcdc8e0afda1f6be669ff7683c4"
+    },
+    {
+      "id": "local-f01494f8c941b04dfd8f",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:5b2afd01eccc6043ca0664cbc54d641aa486a21a03bd0e228ef26de8d15277b9",
+      "movement": 5,
+      "duration": 213.69333333333333,
+      "url": "/audio/local-f01494f8c941b04dfd8f.flac",
+      "source": "user-recording",
+      "label": "Vj. Etwas Bewegter - \"O Glaube, Mein Herz, O Glaube\"",
+      "originalFingerprint": "sha256:f01494f8c941b04dfd8fb8c48e876ed5c337229f634ce42360e73106720b39bb"
+    },
+    {
+      "id": "local-6d9c62240aa2d62d73a9",
+      "recording": "bernstein-nyp-dg-1987",
+      "fingerprint": "sha256:46e3479b50022d3833fc3c8cf3060c760b01caadebefed37324d6948177915f7",
+      "movement": 5,
+      "duration": 309.97333333333336,
+      "url": "/audio/local-6d9c62240aa2d62d73a9.flac",
+      "source": "user-recording",
+      "label": "Vk. Mit Aufschwung, Aber Nicht Eilen - \"O Schmerz, Du Alldurchdringer\"",
+      "originalFingerprint": "sha256:6d9c62240aa2d62d73a9e11c0ac8a27ae382291ae13e9e774a2a27650fc4c019"
+    }
+  ],
+  "events": [
+    {
+      "id": "iii-opening-timpani-first",
+      "title": "开头第一组短音型",
+      "category": "音响/结构",
+      "movement": 3,
+      "source": "score-imslp415748",
+      "scoreRangeId": "iii-opening-timpani-first-score",
+      "claimIds": [
+        "iii-opening-timpani-first-fact"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    },
+    {
+      "id": "iii-opening-timpani-second",
+      "title": "第二组短音型：比较力度与停留",
+      "category": "音响/结构",
+      "movement": 3,
+      "source": "score-imslp415748",
+      "scoreRangeId": "iii-opening-timpani-second-score",
+      "claimIds": [
+        "iii-opening-timpani-second-fact"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    }
+  ],
+  "cues": [
+    {
+      "id": "cue-iii-opening-timpani-first",
+      "event": "iii-opening-timpani-first",
+      "alignmentId": "iii-opening-timpani-first-alignment",
+      "start": 2,
+      "end": 4.5,
+      "text": "留意短音型之后的停留，稍后比较第二次出现。",
+      "priority": 2,
+      "source": "score-imslp415748",
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    },
+    {
+      "id": "cue-iii-opening-timpani-second",
+      "event": "iii-opening-timpani-second",
+      "alignmentId": "iii-opening-timpani-second-alignment",
+      "start": 5.4,
+      "end": 7.6,
+      "text": "第二次出现时，力度与停留有什么变化？",
+      "priority": 1,
+      "source": "score-imslp415748",
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "score-imslp415748",
+      "title": "Mahler, Symphonie Nr. 2 — UE reprint scan, IMSLP #415748",
+      "author": "Gustav Mahler；IMSLP / RSL scan",
+      "url": "https://imslp.org/wiki/Symphony_No.2,_GMW_30_(Mahler,_Gustav)",
+      "locator": "印刷页80 / 本次PDF第80页；第三乐章开头两行系统",
+      "accessed": "2026-10-23",
+      "usage": "IMSLP目录将此历史谱本扫描列为Public Domain；仅摘录所核对的历史记谱，不含现代校订。谱面裁片与录音的使用依据分别记录。"
+    },
+    {
+      "id": "user-recording",
+      "title": "Bernstein / New York Philharmonic / DG 1987 — 项目录音",
+      "author": "项目所有者提供；文件标签核对",
+      "url": "https://leonardbernstein.com/discography?page=27",
+      "locator": "DG 1987, 4233952；具体分轨由项目所有者提供",
+      "accessed": "2026-10-23",
+      "usage": "项目所有者于2026-10-23明确指定录音纳入Git并随成品提供。原件保存在Recording，播放副本由构建生成。本轮仅本地构建，不执行外部发布。"
+    }
+  ],
+  "scoreRanges": [
+    {
+      "id": "iii-opening-timpani-first-score",
+      "edition": "mahler2-imslp415748-ue-scan",
+      "movement": 3,
+      "granularity": "region",
+      "locator": "印刷页80，上方系统，第一定音鼓第1次短音型",
+      "voices": "1. Pauke（第一定音鼓）"
+    },
+    {
+      "id": "iii-opening-timpani-second-score",
+      "edition": "mahler2-imslp415748-ue-scan",
+      "movement": 3,
+      "granularity": "region",
+      "locator": "印刷页80，上方系统，第一定音鼓第2次短音型",
+      "voices": "1. Pauke（第一定音鼓）"
+    }
+  ],
+  "claims": [
+    {
+      "id": "iii-opening-timpani-first-fact",
+      "layer": "score_fact",
+      "text": "谱面第一定音鼓的第1次短音型标有 ff、kurz（短促）；之后的休止上方有延长记号。",
+      "sourceIds": [
+        "score-imslp415748"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "Codex（谱面视觉核对）；项目用户（对应复核）",
+        "date": "2026-10-23",
+        "method": "原谱裁片视觉核对；用户确认两条对应可用。"
+      }
+    },
+    {
+      "id": "iii-opening-timpani-second-fact",
+      "layer": "score_fact",
+      "text": "同一声部稍后的第2次短音型标有 f，并再次接有带延长记号的休止。",
+      "sourceIds": [
+        "score-imslp415748"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "Codex（谱面视觉核对）；项目用户（对应复核）",
+        "date": "2026-10-23",
+        "method": "原谱裁片视觉核对；用户确认两条对应可用。"
+      }
+    },
+    {
+      "id": "iii-opening-pair-comparison",
+      "layer": "score_fact",
+      "text": "页80第一定音鼓声部先后出现两组短音型，分别标ff/kurz和f，可并列回听比较。",
+      "sourceIds": [
+        "score-imslp415748"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    }
+  ],
+  "alignments": [
+    {
+      "id": "iii-opening-timpani-first-alignment",
+      "event": "iii-opening-timpani-first",
+      "trackId": "local-0f3c226755d962120939",
+      "edition": "mahler2-imslp415748-ue-scan",
+      "fingerprint": "sha256:b6d50678846b4a1e6a89a59f04c3abb622885ee6518144c623c359d1a37b2ba4",
+      "start": 2,
+      "end": 4.5,
+      "method": "manual",
+      "uncertaintySeconds": null,
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      },
+      "boundaryKind": "audition_window",
+      "notes": "用户已确认所给试听窗口和对应可用；窗口含前后余量，不提供逐音或小节边界的量化误差。"
+    },
+    {
+      "id": "iii-opening-timpani-second-alignment",
+      "event": "iii-opening-timpani-second",
+      "trackId": "local-0f3c226755d962120939",
+      "edition": "mahler2-imslp415748-ue-scan",
+      "fingerprint": "sha256:b6d50678846b4a1e6a89a59f04c3abb622885ee6518144c623c359d1a37b2ba4",
+      "start": 5.4,
+      "end": 7.6,
+      "method": "manual",
+      "uncertaintySeconds": null,
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      },
+      "boundaryKind": "audition_window",
+      "notes": "用户已确认所给试听窗口和对应可用；窗口含前后余量，不提供逐音或小节边界的量化误差。"
+    }
+  ],
+  "excerpts": [
+    {
+      "id": "iii-opening-timpani-first-excerpt",
+      "scoreRangeId": "iii-opening-timpani-first-score",
+      "url": "/assets/scores/iii-opening-percussion.png",
+      "alt": "印刷页80，上方系统，第一定音鼓第1次短音型，第一定音鼓记谱",
+      "page": "80",
+      "sourceId": "score-imslp415748",
+      "simplified": false,
+      "usage": "历史总谱裁片；试听窗口带前后余量，不是逐音同步。",
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    },
+    {
+      "id": "iii-opening-timpani-second-excerpt",
+      "scoreRangeId": "iii-opening-timpani-second-score",
+      "url": "/assets/scores/iii-opening-percussion.png",
+      "alt": "印刷页80，上方系统，第一定音鼓第2次短音型，第一定音鼓记谱",
+      "page": "80",
+      "sourceId": "score-imslp415748",
+      "simplified": false,
+      "usage": "历史总谱裁片；试听窗口带前后余量，不是逐音同步。",
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "iii-opening-pair-iii-opening-timpani-first",
+      "from": "iii-opening-timpani-first",
+      "to": "iii-opening-timpani-second",
+      "type": "recurrence",
+      "claimIds": [
+        "iii-opening-pair-comparison"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    },
+    {
+      "id": "iii-opening-pair-iii-opening-timpani-second",
+      "from": "iii-opening-timpani-second",
+      "to": "iii-opening-timpani-first",
+      "type": "recurrence",
+      "claimIds": [
+        "iii-opening-pair-comparison"
+      ],
+      "review": {
+        "status": "reviewed",
+        "reviewer": "项目用户",
+        "date": "2026-10-23",
+        "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。"
+      }
+    }
+  ]
+}

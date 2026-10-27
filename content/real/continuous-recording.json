@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "recording": "bernstein-nyp-dg-1987",
+  "tracks": [
+    {
+      "id": "movement-1-continuous",
+      "recording": "bernstein-nyp-dg-1987",
+      "movement": 1,
+      "fingerprint": "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+      "duration": 1494,
+      "url": "/audio/movement-1-continuous.flac",
+      "parts": [
+        {
+          "trackId": "local-af428c1ce224da17b6c5",
+          "fingerprint": "sha256:3dd0e0779bcdb5144d2a49079836ee6282336e89998b2f07cb4148ef41e9b2e9",
+          "start": 0,
+          "end": 421
+        },
+        {
+          "trackId": "local-4ad6f21508e9eb682eb3",
+          "fingerprint": "sha256:3d5f1494e3ddfac51756ae6445814ba9ab3544c26fed553ef896c1f08c5ee029",
+          "start": 421,
+          "end": 771.36
+        },
+        {
+          "trackId": "local-7742fde63fb2f7975cdb",
+          "fingerprint": "sha256:c9eaba88d882d9d5d89ff80d0f47fea2cb2dbdefa114dbdcdf218d25035a137d",
+          "start": 771.36,
+          "end": 995.56
+        },
+        {
+          "trackId": "local-4bef93c292346251584e",
+          "fingerprint": "sha256:01e296aa48d74618ec8ebe5ebbaa1e265bba407db68809be62d3dfb95ec9bb40",
+          "start": 995.56,
+          "end": 1281.1599999999999
+        },
+        {
+          "trackId": "local-0c6f6b49dcf3cdf30a2c",
+          "fingerprint": "sha256:b20423079fe6d4375acba0c2a410729932f1c65190e8c9ce3218e60597dbb111",
+          "start": 1281.1599999999999,
+          "end": 1493.9999999999998
+        }
+      ]
+    },
+    {
+      "id": "movement-2-continuous",
+      "recording": "bernstein-nyp-dg-1987",
+      "movement": 2,
+      "fingerprint": "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+      "duration": 726,
+      "url": "/audio/movement-2-continuous.flac",
+      "parts": [
+        {
+          "trackId": "local-8f10a419e03ba54bbe28",
+          "fingerprint": "sha256:e0e21ccd21a20916f086e442a73ee3d3c6ed445574920656d9c268538cbf4f71",
+          "start": 0,
+          "end": 104.66666666666667
+        },
+        {
+          "trackId": "local-09ba4e3ef9b45ea68983",
+          "fingerprint": "sha256:b535cb53fdce293ba131acbd059c429621dde190a71b69752b058b8f3ec731a7",
+          "start": 104.66666666666667,
+          "end": 213.13333333333333
+        },
+        {
+          "trackId": "local-92411c746d2cf0cf1e7e",
+          "fingerprint": "sha256:c8bd0bf960b4f9ecd0044182d958171887e84b04e3658ba13a28457d51ee00a9",
+          "start": 213.13333333333333,
+          "end": 336.66666666666663
+        },
+        {
+          "trackId": "local-fa96b4e473fc4f891314",
+          "fingerprint": "sha256:97b19079dc96ba4ca7b644056021a01456b82b3804f0f49fd38b281e1aed32a0",
+          "start": 336.66666666666663,
+          "end": 483
+        },
+        {
+          "trackId": "local-4fe87a1f53aa8d2bf96f",
+          "fingerprint": "sha256:afbeadfb982d14eb85e01a86e2c63a3419cbd889fdfa09a8ddca35ea86b15f26",
+          "start": 483,
+          "end": 726
+        }
+      ]
+    },
+    {
+      "id": "movement-3-continuous",
+      "recording": "bernstein-nyp-dg-1987",
+      "movement": 3,
+      "fingerprint": "sha256:2614c887b4b49c26a7b99a47b1e6a39edd292cb5e47d5aaa3cb178cb3dc91c0f",
+      "duration": 684.8266666666667,
+      "url": "/audio/movement-3-continuous.flac",
+      "parts": [
+        {
+          "trackId": "local-0f3c226755d962120939",
+          "fingerprint": "sha256:b6d50678846b4a1e6a89a59f04c3abb622885ee6518144c623c359d1a37b2ba4",
+          "start": 0,
+          "end": 300.8
+        },
+        {
+          "trackId": "local-97c5f0eefc9af8ac7140",
+          "fingerprint": "sha256:2efe23cd8fdd4e134dac652ec15f410ad0ec0028b8fd89713dc009c33c6ea0ad",
+          "start": 300.8,
+          "end": 388.56
+        },
+        {
+          "trackId": "local-ce49f732f83e2f30b076",
+          "fingerprint": "sha256:b1082078ad72ce262a7ae86ed3a04e397015e97e6099e415a9d5cfdecbe2a48d",
+          "start": 388.56,
+          "end": 684.8266666666666
+        }
+      ]
+    },
+    {
+      "id": "movement-4-continuous",
+      "recording": "bernstein-nyp-dg-1987",
+      "movement": 4,
+      "fingerprint": "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+      "duration": 378.50666666666666,
+      "url": "/audio/movement-4-continuous.flac",
+      "parts": [
+        {
+          "trackId": "local-552cfd6e8802c900ac75",
+          "fingerprint": "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "start": 0,
+          "end": 378.50666666666666
+        }
+      ]
+    },
+    {
+      "id": "movement-5-continuous",
+      "recording": "bernstein-nyp-dg-1987",
+      "movement": 5,
+      "fingerprint": "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476",
+      "duration": 2318.6666666666665,
+      "url": "/audio/movement-5-continuous.flac",
+      "parts": [
+        {
+          "trackId": "local-6084694ec3606403fbaf",
+          "fingerprint": "sha256:658384066396af5c6e5f863863d4f4698cb7de71bab0cf2157ffc44940a7fa6d",
+          "start": 0,
+          "end": 104.82666666666667
+        },
+        {
+          "trackId": "local-1c7a52ab58baf49f8123",
+          "fingerprint": "sha256:194018b7d7a89e9243971db2b3168325d50d629968e4cbd513fe90227d2a8820",
+          "start": 104.82666666666667,
+          "end": 344.6
+        },
+        {
+          "trackId": "local-53221946ed934e68a898",
+          "fingerprint": "sha256:02cdc13913dd20cec30b43812ae268568fcd673db9c5d81ea93e2281465d054f",
+          "start": 344.6,
+          "end": 424.0266666666667
+        },
+        {
+          "trackId": "local-083a152b2795c790a431",
+          "fingerprint": "sha256:b5a7f69e1155615a71fc09c426da0c1a91ca016914a6cd018e44c858a0aeae41",
+          "start": 424.0266666666667,
+          "end": 645.5333333333333
+        },
+        {
+          "trackId": "local-a04444d1d8bc1bd46580",
+          "fingerprint": "sha256:91aaee4044b6f48493a331ae8965017a98ef9129000d014144450972ec3d902b",
+          "start": 645.5333333333333,
+          "end": 901.4666666666667
+        },
+        {
+          "trackId": "local-80331ecb23d3b0c8077b",
+          "fingerprint": "sha256:a9c7f425acbeeb199e3d02eddc0da0704ec7df7692605bc97be8d0b54482cd2e",
+          "start": 901.4666666666667,
+          "end": 1140.0933333333332
+        },
+        {
+          "trackId": "local-55478eb24e1bcd7e796a",
+          "fingerprint": "sha256:92216b10cf2fd7762571e4c8b1c809f244bfb678c197933015e30be4465f6141",
+          "start": 1140.0933333333332,
+          "end": 1307.6666666666665
+        },
+        {
+          "trackId": "local-c084e531f1489cd3496e",
+          "fingerprint": "sha256:1b57ec4a364c826f843cad28842ea0819b38f20fdaa85e973b69275e75d6fbc4",
+          "start": 1307.6666666666665,
+          "end": 1557.6933333333332
+        },
+        {
+          "trackId": "local-9fba2acb54dcaf550161",
+          "fingerprint": "sha256:b8a736c840b67adae7b8d48c787b68c117bcc2c302da1ae3be7630a27dc9c7bf",
+          "start": 1557.6933333333332,
+          "end": 1794.9999999999998
+        },
+        {
+          "trackId": "local-f01494f8c941b04dfd8f",
+          "fingerprint": "sha256:5b2afd01eccc6043ca0664cbc54d641aa486a21a03bd0e228ef26de8d15277b9",
+          "start": 1794.9999999999998,
+          "end": 2008.6933333333332
+        },
+        {
+          "trackId": "local-6d9c62240aa2d62d73a9",
+          "fingerprint": "sha256:46e3479b50022d3833fc3c8cf3060c760b01caadebefed37324d6948177915f7",
+          "start": 2008.6933333333332,
+          "end": 2318.6666666666665
+        }
+      ]
+    }
+  ]
+}

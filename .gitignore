@@ -1,0 +1,33 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.local
+.local/
+
+tmp/
+__pycache__/
+*.pyc
+
+# Local working instructions and conversation records are never published.
+.claude/
+.codex/
+.agents/
+.aws/
+**/[Aa][Gg][Ee][Nn][Tt].md
+**/[Aa][Gg][Ee][Nn][Tt][Ss].md
+**/[Ww][Ee][Bb][Uu][Ii]_[Aa][Gg][Ee][Nn][Tt]*
+**/[Cc][Oo][Nn][Tt][Ee][Xx][Tt]*
+PROJECT_OVERVIEW.md
+docs/PROGRESS.md
+docs/DECISIONS.md
+docs/WEBUI_DESIGN.md
+.env
+.env.*
+!.env.example
+
+# Compiled portable distributions are GitHub Release assets, not Git blobs.
+release/Mahler-Lexicon-*/
+release/*.zip
+release/*.zip.sha256
+release/cache/

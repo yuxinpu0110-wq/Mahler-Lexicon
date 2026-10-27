@@ -1,0 +1,136 @@
+:root {
+  /* 全局过渡物理曲线 */
+  --ease-apple-spring: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ==========================================================================
+   第一乐章 · 葬礼进行曲 (Totenfeier) ——【黑曜石与冷灰碑铭】
+   气质：肃穆、沉重、大理石裂纹、c小调的铁血抗争
+   ========================================================================== */
+[data-movement="1"] {
+  --bg-canvas: #0E1013;
+  --bg-ambient-1: radial-gradient(circle at 20% 15%, rgba(45, 55, 72, 0.35), transparent 60%);
+  --bg-ambient-2: radial-gradient(circle at 80% 85%, rgba(26, 30, 36, 0.50), transparent 65%);
+  --glass-surface: rgba(24, 28, 34, 0.58);
+  --glass-surface-hover: rgba(34, 40, 48, 0.68);
+  --glass-rim-top: rgba(255, 255, 255, 0.20);
+  --glass-rim-border: rgba(255, 255, 255, 0.08);
+  --glass-shadow: rgba(0, 0, 0, 0.55);
+  --text-primary: #ECEAE4;
+  --text-secondary: rgba(236, 234, 228, 0.62);
+  --text-muted: rgba(236, 234, 228, 0.38);
+  --accent-primary: #8C9BAE; /* 冷钢蓝 / 碑铭银 */
+  --accent-glow: rgba(140, 155, 174, 0.22);
+  --score-mode: dark;
+}
+
+/* ==========================================================================
+   第二乐章 · 行板 (Andante moderato) ——【旧羊皮纸与冬日暖阳】
+   气质：追忆、兰德勒舞曲、昨日世界的余温、降A大调的柔光
+   ========================================================================== */
+[data-movement="2"] {
+  --bg-canvas: #F5F2EB;
+  --bg-ambient-1: radial-gradient(circle at 30% 20%, rgba(230, 218, 195, 0.65), transparent 60%);
+  --bg-ambient-2: radial-gradient(circle at 75% 80%, rgba(218, 198, 170, 0.45), transparent 65%);
+  --glass-surface: rgba(255, 252, 245, 0.65);
+  --glass-surface-hover: rgba(255, 254, 250, 0.82);
+  --glass-rim-top: rgba(255, 255, 255, 0.85);
+  --glass-rim-border: rgba(158, 107, 67, 0.12);
+  --glass-shadow: rgba(60, 45, 30, 0.08);
+  --text-primary: #23201C;
+  --text-secondary: rgba(35, 32, 28, 0.65);
+  --text-muted: rgba(35, 32, 28, 0.42);
+  --accent-primary: #9E6B43; /* 大提琴松香琥珀色 */
+  --accent-glow: rgba(158, 107, 67, 0.16);
+  --score-mode: light;
+}
+
+/* ==========================================================================
+   第三乐章 · 谐谑曲 (In ruhig fließender Bewegung) ——【深水漩涡与荒诞铜绿】
+   气质：鱼群布道、水下不停旋转的齿轮、隔窗看舞的疏离感
+   ========================================================================== */
+[data-movement="3"] {
+  --bg-canvas: #0D1517;
+  --bg-ambient-1: radial-gradient(circle at 25% 30%, rgba(22, 58, 62, 0.42), transparent 60%);
+  --bg-ambient-2: radial-gradient(circle at 75% 70%, rgba(38, 32, 56, 0.38), transparent 60%);
+  --glass-surface: rgba(18, 32, 36, 0.54);
+  --glass-surface-hover: rgba(26, 44, 50, 0.66);
+  --glass-rim-top: rgba(160, 230, 225, 0.22);
+  --glass-rim-border: rgba(74, 139, 140, 0.14);
+  --glass-shadow: rgba(0, 0, 0, 0.50);
+  --text-primary: #E2ECE9;
+  --text-secondary: rgba(226, 236, 233, 0.62);
+  --text-muted: rgba(226, 236, 233, 0.38);
+  --accent-primary: #4A8B8C; /* 幽水青 */
+  --accent-glow: rgba(74, 139, 140, 0.25);
+  --score-mode: dark;
+}
+
+/* 第三乐章彩蛋状态：当播放至 g18 (小节 465-472 "绝望尖叫") 时触发 */
+[data-movement="3"][data-event="cry"] {
+  --bg-ambient-1: radial-gradient(circle at 50% 40%, rgba(184, 58, 45, 0.38), transparent 65%);
+  --accent-primary: #C84B31; /* 撕裂暗金红 */
+  --glass-rim-border: rgba(200, 75, 49, 0.35);
+}
+
+/* ==========================================================================
+   第四乐章 · 原光 (Urlicht) ——【幽夜绒蓝与孤星烛火】
+   气质：极致的室内乐静谧、女低音独唱、黑暗中心的一豆微光 (降D大调)
+   ========================================================================== */
+[data-movement="4"] {
+  --bg-canvas: #090B10;
+  --bg-ambient-1: radial-gradient(circle at 50% 28%, rgba(212, 168, 95, 0.16), transparent 55%);
+  --bg-ambient-2: radial-gradient(circle at 50% 80%, rgba(18, 24, 38, 0.60), transparent 70%);
+  --glass-surface: rgba(16, 20, 30, 0.46);
+  --glass-surface-hover: rgba(24, 30, 44, 0.58);
+  --glass-rim-top: rgba(245, 222, 179, 0.22);
+  --glass-rim-border: rgba(212, 168, 95, 0.12);
+  --glass-shadow: rgba(0, 0, 0, 0.65);
+  --text-primary: #F2EFE9;
+  --text-secondary: rgba(242, 239, 233, 0.64);
+  --text-muted: rgba(242, 239, 233, 0.36);
+  --accent-primary: #D4A85F; /* 古董烛光金 */
+  --accent-glow: rgba(212, 168, 95, 0.22);
+  --score-mode: dark;
+}
+
+/* ==========================================================================
+   第五乐章 · 复活 (Aufersteh'n) ——【双阶演进：从深渊灰烬到破晓流金】
+   阶段 A (小节 1-471，器乐风暴与末日大召唤)：风暴紫灰与远方暗铜号角
+   ========================================================================== */
+[data-movement="5"],
+[data-movement="5"][data-phase="storm"] {
+  --bg-canvas: #111015;
+  --bg-ambient-1: radial-gradient(circle at 20% 25%, rgba(58, 42, 68, 0.35), transparent 60%);
+  --bg-ambient-2: radial-gradient(circle at 80% 75%, rgba(194, 141, 83, 0.15), transparent 65%);
+  --glass-surface: rgba(24, 22, 30, 0.56);
+  --glass-surface-hover: rgba(34, 31, 42, 0.68);
+  --glass-rim-top: rgba(255, 235, 205, 0.20);
+  --glass-rim-border: rgba(194, 141, 83, 0.14);
+  --glass-shadow: rgba(0, 0, 0, 0.55);
+  --text-primary: #EFECE6;
+  --text-secondary: rgba(239, 236, 230, 0.62);
+  --text-muted: rgba(239, 236, 230, 0.38);
+  --accent-primary: #C28D53; /* 后台号角暗铜金 */
+  --accent-glow: rgba(194, 141, 83, 0.24);
+  --score-mode: dark;
+}
+
+/* 阶段 B (小节 472-762，无伴奏合唱 "Aufersteh'n" 进入直至终曲)：破晓晨光与圣殿流金 */
+[data-movement="5"][data-phase="dawn"] {
+  --bg-canvas: #FAF7F0;
+  --bg-ambient-1: radial-gradient(circle at 50% 15%, rgba(245, 222, 168, 0.55), transparent 65%);
+  --bg-ambient-2: radial-gradient(circle at 50% 85%, rgba(238, 228, 205, 0.65), transparent 70%);
+  --glass-surface: rgba(255, 255, 255, 0.72);
+  --glass-surface-hover: rgba(255, 255, 255, 0.88);
+  --glass-rim-top: rgba(255, 255, 255, 0.95);
+  --glass-rim-border: rgba(184, 134, 11, 0.18);
+  --glass-shadow: rgba(120, 90, 40, 0.10);
+  --text-primary: #1E1B16;
+  --text-secondary: rgba(30, 27, 22, 0.68);
+  --text-muted: rgba(30, 27, 22, 0.42);
+  --accent-primary: #B8860B; /* 圣殿管风琴流金 */
+  --accent-glow: rgba(184, 134, 11, 0.20);
+  --score-mode: light;
+}
+

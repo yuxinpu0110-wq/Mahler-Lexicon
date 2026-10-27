@@ -1,0 +1,148 @@
+{
+  "kind": "demo",
+  "edition": "demo-score-v1",
+  "tracks": [
+    {
+      "id": "demo-track",
+      "recording": "synth-v1",
+      "fingerprint": "generated-v1",
+      "movement": 3,
+      "duration": 60,
+      "url": "/assets/demo.wav"
+    }
+  ],
+  "events": [
+    {
+      "id": "figure",
+      "title": "这个音型如何回来？",
+      "category": "动机",
+      "movement": 3,
+      "start": 4,
+      "end": 14,
+      "related": [
+        "return"
+      ],
+      "notes": [
+        60,
+        62,
+        63,
+        67,
+        63,
+        62,
+        60,
+        55
+      ],
+      "fact": "自制八音示例，音符和位置均为虚构。",
+      "analysis": "用于测试选择与返回，不是马勒分析。",
+      "interpretation": "暂无真实意义解释。",
+      "source": "demo-author",
+      "position": {
+        "measureId": "demo-figure",
+        "display": "虚构示例 figure",
+        "offset": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "id": "harmony",
+      "title": "低音改变了什么？",
+      "category": "和声",
+      "movement": 3,
+      "start": 10,
+      "end": 22,
+      "related": [
+        "return"
+      ],
+      "notes": [
+        60,
+        64,
+        67,
+        59,
+        62,
+        67,
+        60,
+        64
+      ],
+      "fact": "自制八音示例，音符和位置均为虚构。",
+      "analysis": "用于测试选择与返回，不是马勒分析。",
+      "interpretation": "暂无真实意义解释。",
+      "source": "demo-author",
+      "position": {
+        "measureId": "demo-harmony",
+        "display": "虚构示例 harmony",
+        "offset": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "id": "return",
+      "title": "同一音型，换一个音区",
+      "category": "动机",
+      "movement": 3,
+      "start": 32,
+      "end": 44,
+      "related": [
+        "figure"
+      ],
+      "notes": [
+        72,
+        74,
+        75,
+        79,
+        75,
+        74,
+        72,
+        67
+      ],
+      "fact": "自制八音示例，音符和位置均为虚构。",
+      "analysis": "用于测试选择与返回，不是马勒分析。",
+      "interpretation": "暂无真实意义解释。",
+      "source": "demo-author",
+      "position": {
+        "measureId": "demo-return",
+        "display": "虚构示例 return",
+        "offset": [
+          0,
+          1
+        ]
+      }
+    }
+  ],
+  "cues": [
+    {
+      "id": "cue-figure",
+      "event": "figure",
+      "start": 4,
+      "end": 14,
+      "text": "留意这个反复音型，稍后比较它的变化。",
+      "priority": 3
+    },
+    {
+      "id": "cue-harmony",
+      "event": "harmony",
+      "start": 10,
+      "end": 22,
+      "text": "低音变化时，你的听感有什么不同？",
+      "priority": 2
+    },
+    {
+      "id": "cue-return",
+      "event": "return",
+      "start": 32,
+      "end": 44,
+      "text": "这段是否让你想起开头的音型？",
+      "priority": 1
+    }
+  ],
+  "sources": [
+    {
+      "id": "demo-author",
+      "title": "项目自制合成测试材料 v1",
+      "usage": "自制材料，仅供交互测试，非马勒原作"
+    }
+  ]
+}

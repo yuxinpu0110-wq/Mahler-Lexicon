@@ -1,0 +1,28 @@
+{
+  "method": "Phrase starts/ends located visually in the registered score. Local bar fractions within matched reference-video views are estimates, not sung-word alignment. Range labels remain the author's lyric numbering; no full-movement bar index is inferred.",
+  "anchors": [
+    {"movement":4,"from":1,"to":3,"start":[2822,2886.5,0,12],"end":[2822,2886.5,3,12],"pages":[128],"basis":"Opening O Röschen rot occupies the first three local bars; the following brass chorale has no voice."},
+    {"movement":4,"from":15,"to":22,"start":[2886.5,2936,2,11],"end":[2936,2994,0,9],"pages":[129],"basis":"Upper system: first two bars rest, then Der Mensch liegt in größter Not / Pein."},
+    {"movement":4,"from":23,"to":33,"start":[2936,2994,0,9],"end":[2994,3026,1,7],"pages":[129,130],"basis":"Je lieber begins in page129 lower system and finishes in first bar of page130 upper system."},
+    {"movement":4,"from":36,"to":44,"start":[2994,3026,4,7],"end":[3043.5,3070,6,7],"pages":[130,131],"basis":"Da kam ich begins after the instrumental transition in page130 upper system; angel phrase continues through page131."},
+    {"movement":4,"from":44,"to":48,"start":[3043.5,3070,6,7],"end":[3070,3186.5,3,18],"pages":[131,132],"basis":"Ach nein begins in final bar of page131; continues through the opening of page132."},
+    {"movement":4,"from":49,"to":53,"start":[3070,3186.5,3,18],"end":[3070,3186.5,5,18],"pages":[132],"basis":"Ich bin von Gott begins at rehearsal5 in page132; next lyric begins later on this page."},
+    {"movement":4,"from":54,"to":65,"start":[3070,3186.5,5,18],"end":[3070,3186.5,17,18],"pages":[132,133],"basis":"Der liebe Gott continues to final vocal cadence on page133; leave the final instrumental bar without lyrics."},
+    {"movement":5,"from":472,"to":479,"start":[4452,4510.5,0,8],"end":[4510.5,4566,0,8],"pages":[186],"basis":"Rehearsal31, page186 final system: first Aufersteh'n stanza."},
+    {"movement":5,"from":480,"to":487,"start":[4510.5,4566,0,8],"end":[4566,4599,0,8],"pages":[187],"basis":"Page187 upper system: Unsterblich Leben. The next instrumental systems carry no lyric window."},
+    {"movement":5,"from":501,"to":505,"start":[4672.5,4717,0,12],"end":[4672.5,4717,11,12],"pages":[190],"basis":"Rehearsal35, page190 upper system: Wieder aufzublüh'n; Der Herr pickup in last bar."},
+    {"movement":5,"from":506,"to":511,"start":[4672.5,4717,11,12],"end":[4778,4828.5,0,13],"pages":[190],"basis":"Der Herr pickup at end of upper system, then lower system through die starben; following pages191/192 instrumental."},
+    {"movement":5,"from":517,"to":539,"start":[4880.5,4905,1,15],"end":[4880.5,4905,14,15],"pages":[193],"basis":"Page193 upper: short rest then O glaube; Dein pickup in final bar."},
+    {"movement":5,"from":540,"to":559,"start":[4880.5,4905,14,15],"end":[4924.5,4939.5,2,10],"pages":[193,194],"basis":"Dein pickup, page193 lower system, then was du gestritten in first two bars of page194 upper system."},
+    {"movement":5,"from":560,"to":563,"start":[4939.5,4955,5,11],"end":[4955,4974.5,0,10],"pages":[194],"basis":"Page194 lower: O glaube pickup before rehearsal41, Du wardst nicht umsonst geboren."},
+    {"movement":5,"from":564,"to":567,"start":[4955,4974.5,0,10],"end":[4955,4974.5,7,10],"pages":[195],"basis":"Page195 upper: Hast nicht umsonst gelebt, gelitten, followed by rests."},
+    {"movement":5,"from":568,"to":579,"start":[4974.5,4996,1,7],"end":[4996,5087,2,25],"pages":[195,196],"basis":"Page195 lower: Was entstanden pickup before rehearsal42; auferstehen ends in opening bars of page196."},
+    {"movement":5,"from":580,"to":591,"start":[4996,5087,6,25],"end":[4996,5087,17,25],"pages":[196,197],"basis":"Rehearsal43 Hör auf zu beben, then Bereite dich zu leben across page197 opening; brief instrumental gap before O Schmerz."},
+    {"movement":5,"from":592,"to":603,"start":[4996,5087,20,25],"end":[5087,5116.5,0,25],"pages":[197],"basis":"Page197 after rehearsal44, alto O Schmerz; soprano O Tod pickup at the end of the page."},
+    {"movement":5,"from":604,"to":617,"start":[5087,5116.5,0,25],"end":[5087,5116.5,8,25],"pages":[198],"basis":"Page198 opening: O Tod / Du Allbezwinger; Mit Flügeln begins at rehearsal45."},
+    {"movement":5,"from":618,"to":627,"start":[5087,5116.5,8,25],"end":[5116.5,5152,0,17],"pages":[198,199],"basis":"Rehearsal45 duet Mit Flügeln through zum Licht, zu dem kein Aug gedrungen; last syllable carries into page200."},
+    {"movement":5,"from":628,"to":639,"start":[5116.5,5152,0,17],"end":[5199.5,5287.5,2,22],"pages":[200,201,202,203,204],"basis":"Choral imitation Mit Flügeln, then rehearsal47 Sterben werd ich, um zu leben through first two bars of page204."},
+    {"movement":5,"from":640,"to":655,"start":[5199.5,5287.5,2,22],"end":[5199.5,5287.5,11,22],"pages":[204],"basis":"Rehearsal48 final Aufersteh'n chorale begins after two held-over bars; Was du geschlagen pickup at page end."},
+    {"movement":5,"from":656,"to":671,"start":[5199.5,5287.5,11,22],"end":[5287.5,5322,2,10],"pages":[204,205,206],"basis":"Was du geschlagen, zu Gott wird es dich tragen continues across page205 into the two held vocal bars on page206; remaining coda instrumental."}
+  ]
+}

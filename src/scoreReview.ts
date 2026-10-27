@@ -1,0 +1,3 @@
+﻿import{z}from'zod';
+const text=z.string().min(1);const schema=z.object({editionId:text,pdfSHA256:z.string().regex(/^[a-f0-9]{64}$/),reviewScope:text,source:z.object({id:text,title:text,author:text,url:z.string().url(),locator:text,accessed:text,usage:text}),observations:z.array(z.object({id:text,movement:z.number().int().min(1).max(5),title:text,image:z.string().regex(/^\/assets\/scores\/[a-z0-9-]+\.png$/),alt:text,fact:text,locator:text,reviewStatus:z.literal('reviewed'),reviewer:text,method:text,alignmentStatus:z.literal('needs_review')}))});
+export function validateScoreEvidence(raw:unknown){const d=schema.parse(raw);if(new Set(d.observations.map(o=>o.id)).size!==d.observations.length)throw Error('谱面观察 ID 重复');return d}

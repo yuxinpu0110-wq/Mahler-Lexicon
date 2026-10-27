@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "edition": "mahler2-imslp415748-ue-scan",
+  "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+  "notes": [
+    {
+      "id": "iii-introduction",
+      "from": 1,
+      "to": 12,
+      "title": "定音鼓之后，流动开始",
+      "scoreFact": "印刷页80开头标出3/8、两组定音鼓短音型和停顿记号；随后弦乐接入连续音型。",
+      "analysis": "Tsougaraki将第1–12小节列为引子；其论文同时记录另一种把引子结束放在第7小节的分段，因此边界是一种分析选择。",
+      "meaning": "柏林爱乐介绍认为，第三乐章引用鱼群布道歌曲，以反讽的方式呈现人的忙碌与不变。此处还不能把某个定音鼓音直接解释成具体角色。",
+      "question": "短促敲击与随后不断流动的弦乐，怎样改变你对时间的感觉？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 105–107, table 4.3 and discussion",
+      "supportingSources": [
+        {
+          "title": "Berliner Philharmoniker programme note",
+          "url": "https://www.berliner-philharmoniker.de/en/programme-notes/gustav-mahler-symphony-no-2-in-c-minor-resurrection/",
+          "location": "third-movement paragraph"
+        },
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "pp. 63–64 and table 2, p. 92"
+        }
+      ],
+      "status": "research_only"
+    },
+    {
+      "id": "iii-song-material",
+      "from": 13,
+      "to": 189,
+      "title": "布道歌曲的材料进入谐谑曲",
+      "analysis": "Tsougaraki采用第13–189小节为A段的分法，认为小提琴从第13小节开始承接歌曲主题；这是一种形式分析，并不意味着整段每小节都直接引用同一句旋律。",
+      "motif": "Oxford University Press 的研究把《Des Antonius von Padua Fischpredigt》视作这一乐章的歌曲基础，并指出乐章并非简单照搬完整声乐旋律。",
+      "meaning": "歌曲讲述鱼群认真听布道，离开后却照旧生活。柏林爱乐将这层反讽与乐章的忙碌感联系起来；具体听感可由听者自行判断。",
+      "question": "反复流动的伴奏与你能辨出的旋律之间，谁更占据注意力？",
+      "sourceUrl": "https://academic.oup.com/book/43103/chapter-abstract/361589053",
+      "sourceTitle": "Oxford Academic, The Third Movement: Scherzo and Trio",
+      "sourceLocation": "chapter 6 abstract",
+      "supportingSources": [
+        {
+          "title": "Tsougaraki, formal diagram",
+          "url": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+          "location": "pp. 105–107, table 4.3"
+        },
+        {
+          "title": "Berliner Philharmoniker programme note",
+          "url": "https://www.berliner-philharmoniker.de/en/programme-notes/gustav-mahler-symphony-no-2-in-c-minor-resurrection/",
+          "location": "third-movement paragraph"
+        },
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "pp. 63–64 and table 2, p. 92"
+        }
+      ],
+      "status": "research_only"
+    },
+    {
+      "id": "iii-contrast",
+      "from": 190,
+      "to": 327,
+      "title": "新的对比段",
+      "analysis": "Tsougaraki将第190–327小节归为B段，表中以C大调标识这个大的调性区域；她也记述其他研究者在第271小节进一步分段。",
+      "harmony": "C大调是论文对大段的调性概括，不代表这138小节每一处都是C大三和弦。",
+      "question": "听到对比段时，音色或旋律重心相较前段有什么变化？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 105–107, table 4.3 and discussion",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "pp. 64–66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-rott-allusion",
+      "from": 257,
+      "to": 260,
+      "title": "一处可能的主题暗示",
+      "analysis": "Mahler Biographical Database 将第257–260小节E大调主题的开头动机列为对Hans Rott《E大调交响曲》谐谑曲主题的暗示。这是资料作者的关系判断，尚需把两份乐谱并置核对。",
+      "motif": "候选关系：Rott谐谑曲开头主题 → 此处主题头部；关系类型为资料提出的 allusion，未升级为本项目核验动机。",
+      "question": "若只听这一段，你会把它听成前面材料的延伸，还是突然出现的新想法？",
+      "sourceUrl": "https://www.mahlercat.org.uk/Pages/Symph2/Symph2.htm",
+      "sourceTitle": "Mahler Biographical Database and Catalogue of Works, Symphony No. 2",
+      "sourceLocation": "Table 1, Quotations and Self-Borrowings, item b",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "pp. 64–66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-transition",
+      "from": 328,
+      "to": 347,
+      "title": "返回前的过渡",
+      "analysis": "Tsougaraki将第328–347小节单列为过渡，随后第348小节开始A材料的返回；这里的段落边界仍须在项目录音中回听确认。",
+      "question": "音乐是突然回到先前的循环，还是先逐步找回它？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 105–107, table 4.3 and discussion",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-a-return",
+      "from": 348,
+      "to": 440,
+      "title": "谐谑曲材料再现",
+      "analysis": "Tsougaraki把第348–440小节记为A1，即早前A材料的回归；A1意味着有变动的返回，不等同于逐音复写。",
+      "harmony": "论文把这一大段归于C小调区域；局部和声进行尚未逐小节核验。",
+      "question": "与前一次出现相比，这里的配器与力度有什么变化？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "p. 106, table 4.3",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-b-return",
+      "from": 441,
+      "to": 464,
+      "title": "对比材料回归",
+      "analysis": "Tsougaraki与其比较的两位分析者都把第441小节视为B段材料回归的起点；第465小节之后是否另立段落则有不同看法。",
+      "harmony": "论文表格把这一段的整体调性概括为C大调；具体和弦进行需要谱音与录音复核。",
+      "question": "这次回归是否真的带来了稳定感？先记下你的听感，再看下一处。",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 106–107, table 4.3 and discussion",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-cry",
+      "from": 465,
+      "to": 480,
+      "title": "激烈中断与延迟的解答",
+      "analysis": "Tsougaraki把第465–480小节另列为爆发段，认为降B小调和声叠在C持续低音之上，造成难以立即解决的张力；这是一项有明确小节依据的和声分析主张。",
+      "harmony": "资料主张：B♭小调和声／C持续低音。尚未逐音核对本谱本的总谱声部，不能把它写成已审阅的和声进行。",
+      "meaning": "柏林爱乐的节目说明沿用马勒关于“绝望的呼喊”的描述。它提供戏剧语境，并不能替听者决定这个音响只能表达一种情绪。",
+      "question": "保持不动的低音与上方强烈变化的和声，是怎样共同制造悬而未决的感觉的？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 106–107, table 4.3, analysis of bars 465–480",
+      "supportingSources": [
+        {
+          "title": "Berliner Philharmoniker programme note",
+          "url": "https://www.berliner-philharmoniker.de/en/programme-notes/gustav-mahler-symphony-no-2-in-c-minor-resurrection/",
+          "location": "third-movement paragraph"
+        },
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ],
+      "status": "research_only"
+    },
+    {
+      "id": "iii-b-after-cry",
+      "from": 481,
+      "to": 544,
+      "title": "爆发之后的继续",
+      "analysis": "Tsougaraki把第481–544小节写为B段材料的返回，并将其置于C大调区域。她认为此前的中断让这次返回显得有所改变，这是分析者的听觉解释。",
+      "question": "熟悉的材料回来时，刚才的爆发是否还影响你的听法？",
+      "sourceUrl": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+      "sourceTitle": "Sophia Louisa Tsougaraki, Spiritual Conflict in Gustav Mahler's First and Second Symphonies",
+      "sourceLocation": "pp. 106–107, table 4.3 and discussion",
+      "status": "research_only",
+      "supportingSources": [
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ]
+    },
+    {
+      "id": "iii-close",
+      "from": 545,
+      "to": 581,
+      "title": "开头材料与尾声",
+      "analysis": "Tsougaraki将第545–581小节记为A2，是A材料的末次返回。Mahler Biographical Database 另指出最后第577–581小节引用舒曼《诗人之恋》中《Das ist ein Flöten und Geigen》的结尾；本项目尚未并置两份谱本核验。",
+      "motif": "候选关系：舒曼歌曲尾声 → 本乐章末5小节；只登记为来源提出的引用。",
+      "question": "结束听起来像给先前的循环画上句点，还是让它突然断开？",
+      "sourceUrl": "https://www.mahlercat.org.uk/Pages/Symph2/Symph2.htm",
+      "sourceTitle": "Mahler Biographical Database and Catalogue of Works, Symphony No. 2",
+      "sourceLocation": "Table 1, Quotations and Self-Borrowings, item c",
+      "supportingSources": [
+        {
+          "title": "Tsougaraki, formal diagram",
+          "url": "https://etheses.whiterose.ac.uk/id/eprint/26101/1/411605.pdf",
+          "location": "p. 106, table 4.3"
+        },
+        {
+          "title": "Lew Smoley, Mahler Foundation, Listening Guide — Movement 3",
+          "url": "https://mahlerfoundation.net/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/",
+          "location": "Transcript, thematic and orchestration discussion; no measure-level timestamps"
+        },
+        {
+          "title": "Katarina Marković, Beyond the First Symphony, Muzički talas 39 (2010)",
+          "url": "https://clio.rs/storage/media/2608/Muzicki_talas_39-2010_s.pdf",
+          "location": "p. 66 and table 2, p. 92"
+        }
+      ],
+      "status": "research_only"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "editionId": "mahler2-imslp415748-ue-scan",
+  "source": {
+    "id": "score-imslp415748",
+    "title": "Mahler, Symphonie Nr. 2 — UE reprint scan, IMSLP #415748",
+    "author": "Gustav Mahler；IMSLP / RSL scan",
+    "url": "https://imslp.org/wiki/Symphony_No.2,_GMW_30_(Mahler,_Gustav)",
+    "locator": "印刷页80 / 本次PDF第80页；第三乐章开头两行系统",
+    "accessed": "2026-10-23",
+    "usage": "IMSLP目录将此历史谱本扫描列为Public Domain；仅摘录所核对的历史记谱，不含现代校订。谱面裁片与录音的使用依据分别记录。"
+  },
+  "pdfSHA256": "e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+  "reviewScope": "仅核对第三乐章开头谱面，未完成录音对齐或动机与和声分析",
+  "observations": [
+    {
+      "id": "iii-score-percussion",
+      "movement": 3,
+      "title": "第三乐章开头：先看定音鼓",
+      "image": "/assets/scores/iii-opening-percussion.png",
+      "alt": "第三乐章开头系统，包括速度标题、第一和第二定音鼓声部及开头休止。",
+      "fact": "标题写作 In ruhig fliessender Bewegung。开头第一定音鼓的短音型重复出现；其间的休止上方有延长记号，脚注写有 Kurze Halte!（短暂停留）。",
+      "locator": "印刷页80，上方系统；1. Pauke 声部与页下注记",
+      "reviewStatus": "reviewed",
+      "reviewer": "Codex（视觉核对）",
+      "method": "直接检查扫描页与裁片；不包含声音核对",
+      "alignmentStatus": "needs_review"
+    },
+    {
+      "id": "iii-score-strings",
+      "movement": 3,
+      "title": "弦乐进入：连续音符与拨奏并置",
+      "image": "/assets/scores/iii-opening-strings.png",
+      "alt": "第三乐章开头下方系统弦乐区域，可见第一小提琴连续音符和低弦 pizz. 标记。",
+      "fact": "下方系统标有 Sehr gemächlich. Nicht eilen.（从容，不要急）。第一小提琴声部出现连续短时值音符；中提琴、大提琴和低音提琴的进入处标有 pizz.（拨奏）。",
+      "locator": "印刷页80，下方系统弦乐区域与上方速度标记",
+      "reviewStatus": "reviewed",
+      "reviewer": "Codex（视觉核对）",
+      "method": "直接检查扫描页与裁片；不包含声音核对",
+      "alignmentStatus": "needs_review"
+    }
+  ]
+}

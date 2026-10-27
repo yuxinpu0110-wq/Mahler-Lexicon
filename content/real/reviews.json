@@ -1,0 +1,16 @@
+{
+  "reviews": [
+    {
+      "id": "user-opening-review-20261023",
+      "status": "reviewed",
+      "reviewer": "项目用户",
+      "date": "2026-10-23",
+      "method": "用户在本次会话确认：我review过了，是可以的。范围仅限此前两条开头音型、试听窗口和对应谱例。",
+      "eventIds": [
+        "iii-opening-timpani-first",
+        "iii-opening-timpani-second"
+      ],
+      "scope": "仅两条开头已试听草稿；不扩展到第三乐章其余内容。"
+    }
+  ]
+}

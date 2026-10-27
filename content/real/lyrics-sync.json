@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "edition": "mahler2-imslp415748-ue-scan",
+  "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+  "method": "Phrase starts/ends located visually in the registered score. Local bar fractions within matched reference-video views are estimates, not sung-word alignment. Range labels remain the author's lyric numbering; no full-movement bar index is inferred. Then transformed with the fingerprint-bound full-work audio DTW into continuous-file-local seconds.",
+  "tracks": [
+    {
+      "id": "movement-4-continuous",
+      "movement": 4,
+      "fingerprint": "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+      "duration": 378.50666666666666,
+      "intervals": [
+        {
+          "lyricId": "lyrics-4-1-3",
+          "from": 1,
+          "to": 3,
+          "de": "O Röschen rot!",
+          "start": 0,
+          "end": 17.298333,
+          "status": "needs_review",
+          "sourceStart": 2822,
+          "sourceEnd": 2838.125,
+          "scorePages": [
+            128
+          ],
+          "basis": "Opening O Röschen rot occupies the first three local bars; the following brass chorale has no voice."
+        },
+        {
+          "lyricId": "lyrics-4-15-22",
+          "from": 15,
+          "to": 22,
+          "de": "Der Mensch liegt in größter Not!\nDer Mensch liegt in größter Pein!",
+          "start": 75.273333,
+          "end": 118.873333,
+          "status": "needs_review",
+          "sourceStart": 2895.5,
+          "sourceEnd": 2936,
+          "scorePages": [
+            129
+          ],
+          "basis": "Upper system: first two bars rest, then Der Mensch liegt in größter Not / Pein."
+        },
+        {
+          "lyricId": "lyrics-4-23-33",
+          "from": 23,
+          "to": 33,
+          "de": "Je lieber möcht’ ich im Himmel sein!",
+          "start": 118.873333,
+          "end": 181.244762,
+          "status": "needs_review",
+          "sourceStart": 2936,
+          "sourceEnd": 2998.5714285714284,
+          "scorePages": [
+            129,
+            130
+          ],
+          "basis": "Je lieber begins in page129 lower system and finishes in first bar of page130 upper system."
+        },
+        {
+          "lyricId": "lyrics-4-36-44",
+          "from": 36,
+          "to": 44,
+          "de": "Da kam ich auf einen breiten Weg:\nDa kam ein Engelein und wollt’ mich abweisen.",
+          "start": 198.359048,
+          "end": 262.473333,
+          "status": "needs_review",
+          "sourceStart": 3012.285714285714,
+          "sourceEnd": 3066.214285714286,
+          "scorePages": [
+            130,
+            131
+          ],
+          "basis": "Da kam ich begins after the instrumental transition in page130 upper system; angel phrase continues through page131."
+        },
+        {
+          "lyricId": "lyrics-4-44-48",
+          "from": 44,
+          "to": 48,
+          "de": "Ach nein! Ich ließ mich nicht abweisen!",
+          "start": 262.473333,
+          "end": 286.09,
+          "status": "needs_review",
+          "sourceStart": 3066.214285714286,
+          "sourceEnd": 3089.4166666666665,
+          "scorePages": [
+            131,
+            132
+          ],
+          "basis": "Ach nein begins in final bar of page131; continues through the opening of page132."
+        },
+        {
+          "lyricId": "lyrics-4-49-53",
+          "from": 49,
+          "to": 53,
+          "de": "Ich bin von Gott und will wieder zu Gott!",
+          "start": 286.09,
+          "end": 299.734444,
+          "status": "needs_review",
+          "sourceStart": 3089.4166666666665,
+          "sourceEnd": 3102.3611111111113,
+          "scorePages": [
+            132
+          ],
+          "basis": "Ich bin von Gott begins at rehearsal5 in page132; next lyric begins later on this page."
+        },
+        {
+          "lyricId": "lyrics-4-54-65",
+          "from": 54,
+          "to": 65,
+          "de": "Der liebe Gott wird mir ein Lichtchen geben,\nWird leuchten mir bis in das ewig selig Leben!",
+          "start": 299.734444,
+          "end": 370.301111,
+          "status": "needs_review",
+          "sourceStart": 3102.3611111111113,
+          "sourceEnd": 3180.027777777778,
+          "scorePages": [
+            132,
+            133
+          ],
+          "basis": "Der liebe Gott continues to final vocal cadence on page133; leave the final instrumental bar without lyrics."
+        }
+      ]
+    },
+    {
+      "id": "movement-5-continuous",
+      "movement": 5,
+      "fingerprint": "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476",
+      "duration": 2318.6666666666665,
+      "intervals": [
+        {
+          "lyricId": "lyrics-5-472-479",
+          "from": 472,
+          "to": 479,
+          "de": "Aufersteh’n, ja aufersteh’n wirst du,\nMein Staub, nach kurzer Ruh’!",
+          "start": 1305.866667,
+          "end": 1376.666667,
+          "status": "needs_review",
+          "sourceStart": 4452,
+          "sourceEnd": 4510.5,
+          "scorePages": [
+            186
+          ],
+          "basis": "Rehearsal31, page186 final system: first Aufersteh'n stanza."
+        },
+        {
+          "lyricId": "lyrics-5-480-487",
+          "from": 480,
+          "to": 487,
+          "de": "Unsterblich Leben! Unsterblich Leben\nwird, der dich rief, dir geben!",
+          "start": 1376.666667,
+          "end": 1441.966667,
+          "status": "needs_review",
+          "sourceStart": 4510.5,
+          "sourceEnd": 4566,
+          "scorePages": [
+            187
+          ],
+          "basis": "Page187 upper system: Unsterblich Leben. The next instrumental systems carry no lyric window."
+        },
+        {
+          "lyricId": "lyrics-5-501-505",
+          "from": 501,
+          "to": 505,
+          "de": "Wieder aufzublüh’n wirst du gesät!",
+          "start": 1556.966667,
+          "end": 1605.258333,
+          "status": "needs_review",
+          "sourceStart": 4672.5,
+          "sourceEnd": 4713.291666666667,
+          "scorePages": [
+            190
+          ],
+          "basis": "Rehearsal35, page190 upper system: Wieder aufzublüh'n; Der Herr pickup in last bar."
+        },
+        {
+          "lyricId": "lyrics-5-506-511",
+          "from": 506,
+          "to": 511,
+          "de": "Der Herr der Ernte geht\nund sammelt Garben\nuns, die starben!",
+          "start": 1605.258333,
+          "end": 1679.066667,
+          "status": "needs_review",
+          "sourceStart": 4713.291666666667,
+          "sourceEnd": 4778,
+          "scorePages": [
+            190
+          ],
+          "basis": "Der Herr pickup at end of upper system, then lower system through die starben; following pages191/192 instrumental."
+        },
+        {
+          "lyricId": "lyrics-5-517-539",
+          "from": 517,
+          "to": 539,
+          "de": "O glaube, mein Herz, o glaube:\nEs geht dir nichts verloren!",
+          "start": 1794.9,
+          "end": 1818.733333,
+          "status": "needs_review",
+          "sourceStart": 4882.133333333333,
+          "sourceEnd": 4903.366666666667,
+          "scorePages": [
+            193
+          ],
+          "basis": "Page193 upper: short rest then O glaube; Dein pickup in final bar."
+        },
+        {
+          "lyricId": "lyrics-5-540-559",
+          "from": 540,
+          "to": 559,
+          "de": "Dein ist, ja dein, was du gesehnt!\nDein, was du geliebt,\nWas du gestritten!",
+          "start": 1818.733333,
+          "end": 1846.166667,
+          "status": "needs_review",
+          "sourceStart": 4903.366666666667,
+          "sourceEnd": 4927.5,
+          "scorePages": [
+            193,
+            194
+          ],
+          "basis": "Dein pickup, page193 lower system, then was du gestritten in first two bars of page194 upper system."
+        },
+        {
+          "lyricId": "lyrics-5-560-563",
+          "from": 560,
+          "to": 563,
+          "de": "O glaube:\nDu wardst nicht umsonst geboren!",
+          "start": 1866.812121,
+          "end": 1875.566667,
+          "status": "needs_review",
+          "sourceStart": 4946.545454545455,
+          "sourceEnd": 4955,
+          "scorePages": [
+            194
+          ],
+          "basis": "Page194 lower: O glaube pickup before rehearsal41, Du wardst nicht umsonst geboren."
+        },
+        {
+          "lyricId": "lyrics-5-564-567",
+          "from": 564,
+          "to": 567,
+          "de": "Hast nicht umsonst gelebt, gelitten!",
+          "start": 1875.566667,
+          "end": 1889.916667,
+          "status": "needs_review",
+          "sourceStart": 4955,
+          "sourceEnd": 4968.65,
+          "scorePages": [
+            195
+          ],
+          "basis": "Page195 upper: Hast nicht umsonst gelebt, gelitten, followed by rests."
+        },
+        {
+          "lyricId": "lyrics-5-568-579",
+          "from": 568,
+          "to": 579,
+          "de": "Was entstanden ist, das muß vergehen!\nWas vergangen, auferstehen!",
+          "start": 1900.338095,
+          "end": 1929.846667,
+          "status": "needs_review",
+          "sourceStart": 4977.571428571428,
+          "sourceEnd": 5003.28,
+          "scorePages": [
+            195,
+            196
+          ],
+          "basis": "Page195 lower: Was entstanden pickup before rehearsal42; auferstehen ends in opening bars of page196."
+        },
+        {
+          "lyricId": "lyrics-5-580-591",
+          "from": 580,
+          "to": 591,
+          "de": "Hör’ auf zu beben!\nBereite dich zu leben!",
+          "start": 1946.906667,
+          "end": 1993.246667,
+          "status": "needs_review",
+          "sourceStart": 5017.84,
+          "sourceEnd": 5057.88,
+          "scorePages": [
+            196,
+            197
+          ],
+          "basis": "Rehearsal43 Hör auf zu beben, then Bereite dich zu leben across page197 opening; brief instrumental gap before O Schmerz."
+        },
+        {
+          "lyricId": "lyrics-5-592-603",
+          "from": 592,
+          "to": 603,
+          "de": "O Schmerz! Du Alldurchdringer!\nDir bin ich entrungen!",
+          "start": 2004.966667,
+          "end": 2023.766667,
+          "status": "needs_review",
+          "sourceStart": 5068.8,
+          "sourceEnd": 5087,
+          "scorePages": [
+            197
+          ],
+          "basis": "Page197 after rehearsal44, alto O Schmerz; soprano O Tod pickup at the end of the page."
+        },
+        {
+          "lyricId": "lyrics-5-604-617",
+          "from": 604,
+          "to": 617,
+          "de": "O Tod! Du Allbezwinger!\nNun bist du bezwungen!",
+          "start": 2023.766667,
+          "end": 2033.906667,
+          "status": "needs_review",
+          "sourceStart": 5087,
+          "sourceEnd": 5096.44,
+          "scorePages": [
+            198
+          ],
+          "basis": "Page198 opening: O Tod / Du Allbezwinger; Mit Flügeln begins at rehearsal45."
+        },
+        {
+          "lyricId": "lyrics-5-618-627",
+          "from": 618,
+          "to": 627,
+          "de": "Mit Flügeln, die ich mir errungen,\nIn heißem Liebesstreben,\nWerd’ ich entschweben\nZum Licht, zu dem kein Aug’ gedrungen!",
+          "start": 2033.906667,
+          "end": 2054.766667,
+          "status": "needs_review",
+          "sourceStart": 5096.44,
+          "sourceEnd": 5116.5,
+          "scorePages": [
+            198,
+            199
+          ],
+          "basis": "Rehearsal45 duet Mit Flügeln through zum Licht, zu dem kein Aug gedrungen; last syllable carries into page200."
+        },
+        {
+          "lyricId": "lyrics-5-628-639",
+          "from": 628,
+          "to": 639,
+          "de": "Mit Flügeln, die ich mir errungen,\nwerd’ ich entschweben!\nSterben werd’ ich, um zu leben!",
+          "start": 2054.766667,
+          "end": 2146.866667,
+          "status": "needs_review",
+          "sourceStart": 5116.5,
+          "sourceEnd": 5207.5,
+          "scorePages": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "basis": "Choral imitation Mit Flügeln, then rehearsal47 Sterben werd ich, um zu leben through first two bars of page204."
+        },
+        {
+          "lyricId": "lyrics-5-640-655",
+          "from": 640,
+          "to": 655,
+          "de": "Aufersteh’n, ja aufersteh’n\nWirst du, mein Herz, in einem Nu!",
+          "start": 2146.866667,
+          "end": 2183.666667,
+          "status": "needs_review",
+          "sourceStart": 5207.5,
+          "sourceEnd": 5243.5,
+          "scorePages": [
+            204
+          ],
+          "basis": "Rehearsal48 final Aufersteh'n chorale begins after two held-over bars; Was du geschlagen pickup at page end."
+        },
+        {
+          "lyricId": "lyrics-5-656-671",
+          "from": 656,
+          "to": 671,
+          "de": "Was geschlagen,\nZu Gott wird es dich tragen!",
+          "start": 2183.666667,
+          "end": 2235.366667,
+          "status": "needs_review",
+          "sourceStart": 5243.5,
+          "sourceEnd": 5294.4,
+          "scorePages": [
+            204,
+            205,
+            206
+          ],
+          "basis": "Was du geschlagen, zu Gott wird es dich tragen continues across page205 into the two held vocal bars on page206; remaining coda instrumental."
+        }
+      ]
+    }
+  ],
+  "evidence": {
+    "referenceAudioSHA256": "f266a9f4ca2de90ce0a062058f38de5509eebbd22c377f9811992092e41c759e",
+    "sourceFile": "scripts/sync/lyric-anchors.json",
+    "humanAuditionVerified": false
+  }
+}

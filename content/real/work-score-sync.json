@@ -1,0 +1,6849 @@
+{
+  "version": 1,
+  "movements": [
+    {
+      "version": 1,
+      "movement": 1,
+      "edition": "mahler2-imslp415748-ue-scan",
+      "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+      "granularity": "page_system",
+      "status": "needs_review",
+      "method": "Offline full-work 10Hz chroma MrMsDTW between reference and project recording; SIFT/RANSAC page-turn recognition at 2 fps, with recorded visual corrections. Continuous-file-local seconds. Page/system follow only; no generated measure numbering.",
+      "sources": [
+        {
+          "title": "symphony7526：Mahler Symphony No. 2 with Score / Bernstein LSO",
+          "url": "https://www.youtube.com/watch?v=C-1d0OY6o0k",
+          "usage": "用户提供的整部跟谱视频作为离线翻页与声音对齐参考；不打包视频画面或参考音轨。"
+        },
+        {
+          "title": "IMSLP #415748 历史UE重印扫描",
+          "url": "https://imslp.org/wiki/Symphony_No.2_(Mahler,_Gustav)",
+          "usage": "使用同一历史UE重印扫描的原谱图像；页码为PDF页序，不把图像识别当作音符转录。"
+        },
+        {
+          "title": "Sync Toolbox / MIT",
+          "url": "https://github.com/groupmm/synctoolbox",
+          "usage": "本地离线生成估计时间映射；不是人工审阅或逐音定位。"
+        }
+      ],
+      "regions": [
+        {
+          "id": "ue-1-view-001",
+          "pages": [
+            {
+              "page": 3,
+              "url": "/assets/scores/work/page-3.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4.0,
+          "sourceEnd": 21.0
+        },
+        {
+          "id": "ue-1-view-002",
+          "pages": [
+            {
+              "page": 4,
+              "url": "/assets/scores/work/page-4.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.39347
+              ]
+            }
+          ],
+          "sourceStart": 21.0,
+          "sourceEnd": 57.5
+        },
+        {
+          "id": "ue-1-view-003",
+          "pages": [
+            {
+              "page": 4,
+              "url": "/assets/scores/work/page-4.webp",
+              "box": [
+                0,
+                0.47578,
+                1,
+                0.52422
+              ]
+            }
+          ],
+          "sourceStart": 57.5,
+          "sourceEnd": 75.5
+        },
+        {
+          "id": "ue-1-view-004",
+          "pages": [
+            {
+              "page": 5,
+              "url": "/assets/scores/work/page-5.webp",
+              "box": [
+                0,
+                0.0078,
+                1,
+                0.51504
+              ]
+            }
+          ],
+          "sourceStart": 75.5,
+          "sourceEnd": 93.5
+        },
+        {
+          "id": "ue-1-view-005",
+          "pages": [
+            {
+              "page": 5,
+              "url": "/assets/scores/work/page-5.webp",
+              "box": [
+                0,
+                0.45922,
+                1,
+                0.51702
+              ]
+            }
+          ],
+          "sourceStart": 93.5,
+          "sourceEnd": 111.5
+        },
+        {
+          "id": "ue-1-view-006",
+          "pages": [
+            {
+              "page": 6,
+              "url": "/assets/scores/work/page-6.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 7,
+              "url": "/assets/scores/work/page-7.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 111.5,
+          "sourceEnd": 164.0
+        },
+        {
+          "id": "ue-1-view-007",
+          "pages": [
+            {
+              "page": 8,
+              "url": "/assets/scores/work/page-8.webp",
+              "box": [
+                0,
+                0.03226,
+                1,
+                0.60324
+              ]
+            }
+          ],
+          "sourceStart": 164.0,
+          "sourceEnd": 194.0
+        },
+        {
+          "id": "ue-1-view-008",
+          "pages": [
+            {
+              "page": 8,
+              "url": "/assets/scores/work/page-8.webp",
+              "box": [
+                0,
+                0.53973,
+                1,
+                0.46027
+              ]
+            }
+          ],
+          "sourceStart": 194.0,
+          "sourceEnd": 226.0
+        },
+        {
+          "id": "ue-1-view-009",
+          "pages": [
+            {
+              "page": 9,
+              "url": "/assets/scores/work/page-9.webp",
+              "box": [
+                0,
+                0.01907,
+                1,
+                0.56335
+              ]
+            }
+          ],
+          "sourceStart": 226.0,
+          "sourceEnd": 255.0
+        },
+        {
+          "id": "ue-1-view-010",
+          "pages": [
+            {
+              "page": 9,
+              "url": "/assets/scores/work/page-9.webp",
+              "box": [
+                0,
+                0.49629,
+                1,
+                0.49677
+              ]
+            }
+          ],
+          "sourceStart": 255.0,
+          "sourceEnd": 270.5
+        },
+        {
+          "id": "ue-1-view-011",
+          "pages": [
+            {
+              "page": 10,
+              "url": "/assets/scores/work/page-10.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 11,
+              "url": "/assets/scores/work/page-11.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 270.5,
+          "sourceEnd": 299.5
+        },
+        {
+          "id": "ue-1-view-012",
+          "pages": [
+            {
+              "page": 12,
+              "url": "/assets/scores/work/page-12.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 13,
+              "url": "/assets/scores/work/page-13.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 299.5,
+          "sourceEnd": 349.0
+        },
+        {
+          "id": "ue-1-view-013",
+          "pages": [
+            {
+              "page": 14,
+              "url": "/assets/scores/work/page-14.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 15,
+              "url": "/assets/scores/work/page-15.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 349.0,
+          "sourceEnd": 441.0
+        },
+        {
+          "id": "ue-1-view-014",
+          "pages": [
+            {
+              "page": 16,
+              "url": "/assets/scores/work/page-16.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 17,
+              "url": "/assets/scores/work/page-17.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 441.0,
+          "sourceEnd": 508.5
+        },
+        {
+          "id": "ue-1-view-015",
+          "pages": [
+            {
+              "page": 18,
+              "url": "/assets/scores/work/page-18.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.55751
+              ]
+            }
+          ],
+          "sourceStart": 508.5,
+          "sourceEnd": 541.0
+        },
+        {
+          "id": "ue-1-view-016",
+          "pages": [
+            {
+              "page": 18,
+              "url": "/assets/scores/work/page-18.webp",
+              "box": [
+                0,
+                0.38971,
+                1,
+                0.46997
+              ]
+            }
+          ],
+          "sourceStart": 541.0,
+          "sourceEnd": 573.0
+        },
+        {
+          "id": "ue-1-view-017",
+          "pages": [
+            {
+              "page": 19,
+              "url": "/assets/scores/work/page-19.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.44696
+              ]
+            }
+          ],
+          "sourceStart": 573.0,
+          "sourceEnd": 588.5
+        },
+        {
+          "id": "ue-1-view-018",
+          "pages": [
+            {
+              "page": 19,
+              "url": "/assets/scores/work/page-19.webp",
+              "box": [
+                0,
+                0.33017,
+                1,
+                0.63559
+              ]
+            }
+          ],
+          "sourceStart": 588.5,
+          "sourceEnd": 602.5
+        },
+        {
+          "id": "ue-1-view-019",
+          "pages": [
+            {
+              "page": 20,
+              "url": "/assets/scores/work/page-20.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 21,
+              "url": "/assets/scores/work/page-21.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 602.5,
+          "sourceEnd": 627.0
+        },
+        {
+          "id": "ue-1-view-020",
+          "pages": [
+            {
+              "page": 22,
+              "url": "/assets/scores/work/page-22.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 23,
+              "url": "/assets/scores/work/page-23.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 627.0,
+          "sourceEnd": 652.5
+        },
+        {
+          "id": "ue-1-view-021",
+          "pages": [
+            {
+              "page": 24,
+              "url": "/assets/scores/work/page-24.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 25,
+              "url": "/assets/scores/work/page-25.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 652.5,
+          "sourceEnd": 674.5
+        },
+        {
+          "id": "ue-1-view-022",
+          "pages": [
+            {
+              "page": 26,
+              "url": "/assets/scores/work/page-26.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 674.5,
+          "sourceEnd": 686.5
+        },
+        {
+          "id": "ue-1-view-023",
+          "pages": [
+            {
+              "page": 27,
+              "url": "/assets/scores/work/page-27.webp",
+              "box": [
+                0,
+                0.01053,
+                1,
+                0.56481
+              ]
+            }
+          ],
+          "sourceStart": 686.5,
+          "sourceEnd": 697.0
+        },
+        {
+          "id": "ue-1-view-024",
+          "pages": [
+            {
+              "page": 27,
+              "url": "/assets/scores/work/page-27.webp",
+              "box": [
+                0,
+                0.45303,
+                1,
+                0.54697
+              ]
+            }
+          ],
+          "sourceStart": 697.0,
+          "sourceEnd": 706.5
+        },
+        {
+          "id": "ue-1-view-025",
+          "pages": [
+            {
+              "page": 28,
+              "url": "/assets/scores/work/page-28.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 29,
+              "url": "/assets/scores/work/page-29.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 706.5,
+          "sourceEnd": 730.5
+        },
+        {
+          "id": "ue-1-view-026",
+          "pages": [
+            {
+              "page": 30,
+              "url": "/assets/scores/work/page-30.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 31,
+              "url": "/assets/scores/work/page-31.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 730.5,
+          "sourceEnd": 767.5
+        },
+        {
+          "id": "ue-1-view-027",
+          "pages": [
+            {
+              "page": 32,
+              "url": "/assets/scores/work/page-32.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.36661
+              ]
+            }
+          ],
+          "sourceStart": 767.5,
+          "sourceEnd": 808.0
+        },
+        {
+          "id": "ue-1-view-028",
+          "pages": [
+            {
+              "page": 32,
+              "url": "/assets/scores/work/page-32.webp",
+              "box": [
+                0,
+                0.45253,
+                1,
+                0.51871
+              ]
+            }
+          ],
+          "sourceStart": 808.0,
+          "sourceEnd": 823.0
+        },
+        {
+          "id": "ue-1-view-029",
+          "pages": [
+            {
+              "page": 33,
+              "url": "/assets/scores/work/page-33.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.56532
+              ]
+            }
+          ],
+          "sourceStart": 823.0,
+          "sourceEnd": 844.0
+        },
+        {
+          "id": "ue-1-view-030",
+          "pages": [
+            {
+              "page": 33,
+              "url": "/assets/scores/work/page-33.webp",
+              "box": [
+                0,
+                0.44339,
+                1,
+                0.55661
+              ]
+            }
+          ],
+          "sourceStart": 844.0,
+          "sourceEnd": 861.0
+        },
+        {
+          "id": "ue-1-view-031",
+          "pages": [
+            {
+              "page": 34,
+              "url": "/assets/scores/work/page-34.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 35,
+              "url": "/assets/scores/work/page-35.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 861.0,
+          "sourceEnd": 887.0
+        },
+        {
+          "id": "ue-1-view-032",
+          "pages": [
+            {
+              "page": 36,
+              "url": "/assets/scores/work/page-36.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 37,
+              "url": "/assets/scores/work/page-37.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 887.0,
+          "sourceEnd": 910.5
+        },
+        {
+          "id": "ue-1-view-033",
+          "pages": [
+            {
+              "page": 38,
+              "url": "/assets/scores/work/page-38.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 39,
+              "url": "/assets/scores/work/page-39.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 910.5,
+          "sourceEnd": 932.5
+        },
+        {
+          "id": "ue-1-view-034",
+          "pages": [
+            {
+              "page": 40,
+              "url": "/assets/scores/work/page-40.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 41,
+              "url": "/assets/scores/work/page-41.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 932.5,
+          "sourceEnd": 950.5
+        },
+        {
+          "id": "ue-1-view-035",
+          "pages": [
+            {
+              "page": 42,
+              "url": "/assets/scores/work/page-42.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 950.5,
+          "sourceEnd": 975.0
+        },
+        {
+          "id": "ue-1-view-036",
+          "pages": [
+            {
+              "page": 43,
+              "url": "/assets/scores/work/page-43.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.54641
+              ]
+            }
+          ],
+          "sourceStart": 975.0,
+          "sourceEnd": 994.0
+        },
+        {
+          "id": "ue-1-view-037",
+          "pages": [
+            {
+              "page": 43,
+              "url": "/assets/scores/work/page-43.webp",
+              "box": [
+                0,
+                0.42152,
+                1,
+                0.5702
+              ]
+            }
+          ],
+          "sourceStart": 994.0,
+          "sourceEnd": 1013.0
+        },
+        {
+          "id": "ue-1-view-038",
+          "pages": [
+            {
+              "page": 44,
+              "url": "/assets/scores/work/page-44.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 45,
+              "url": "/assets/scores/work/page-45.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1013.0,
+          "sourceEnd": 1051.5
+        },
+        {
+          "id": "ue-1-view-039",
+          "pages": [
+            {
+              "page": 46,
+              "url": "/assets/scores/work/page-46.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 47,
+              "url": "/assets/scores/work/page-47.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1051.5,
+          "sourceEnd": 1113.5
+        },
+        {
+          "id": "ue-1-view-040",
+          "pages": [
+            {
+              "page": 48,
+              "url": "/assets/scores/work/page-48.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1113.5,
+          "sourceEnd": 1158.5
+        },
+        {
+          "id": "ue-1-view-041",
+          "pages": [
+            {
+              "page": 48,
+              "url": "/assets/scores/work/page-48.webp",
+              "box": [
+                0,
+                0.60887,
+                1,
+                0.39113
+              ]
+            }
+          ],
+          "sourceStart": 1158.5,
+          "sourceEnd": 1193.0
+        },
+        {
+          "id": "ue-1-view-042",
+          "pages": [
+            {
+              "page": 49,
+              "url": "/assets/scores/work/page-49.webp",
+              "box": [
+                0,
+                0.03323,
+                1,
+                0.55821
+              ]
+            }
+          ],
+          "sourceStart": 1193.0,
+          "sourceEnd": 1230.0
+        },
+        {
+          "id": "ue-1-view-043",
+          "pages": [
+            {
+              "page": 49,
+              "url": "/assets/scores/work/page-49.webp",
+              "box": [
+                0,
+                0.50903,
+                1,
+                0.49097
+              ]
+            }
+          ],
+          "sourceStart": 1230.0,
+          "sourceEnd": 1256.0
+        },
+        {
+          "id": "ue-1-view-044",
+          "pages": [
+            {
+              "page": 50,
+              "url": "/assets/scores/work/page-50.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 51,
+              "url": "/assets/scores/work/page-51.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1256.0,
+          "sourceEnd": 1292.5
+        },
+        {
+          "id": "ue-1-view-045",
+          "pages": [
+            {
+              "page": 52,
+              "url": "/assets/scores/work/page-52.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 53,
+              "url": "/assets/scores/work/page-53.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1292.5,
+          "sourceEnd": 1330.0
+        },
+        {
+          "id": "ue-1-view-046",
+          "pages": [
+            {
+              "page": 54,
+              "url": "/assets/scores/work/page-54.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 55,
+              "url": "/assets/scores/work/page-55.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1330.0,
+          "sourceEnd": 1403.5
+        },
+        {
+          "id": "ue-1-view-047",
+          "pages": [
+            {
+              "page": 56,
+              "url": "/assets/scores/work/page-56.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1403.5,
+          "sourceEnd": 1437.4
+        }
+      ],
+      "tracks": [
+        {
+          "id": "movement-1-continuous",
+          "fingerprint": "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+          "duration": 1494,
+          "intervals": [
+            {
+              "regionId": "ue-1-view-001",
+              "start": 0,
+              "end": 19.4,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-002",
+              "start": 19.4,
+              "end": 57.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-003",
+              "start": 57.3,
+              "end": 76.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-004",
+              "start": 76.6,
+              "end": 96.35,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-005",
+              "start": 96.35,
+              "end": 115.75,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-006",
+              "start": 115.75,
+              "end": 172.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-007",
+              "start": 172.1,
+              "end": 204.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-008",
+              "start": 204.1,
+              "end": 238.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-009",
+              "start": 238.1,
+              "end": 267.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-010",
+              "start": 267.6,
+              "end": 284.8,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-011",
+              "start": 284.8,
+              "end": 315.0,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-012",
+              "start": 315.0,
+              "end": 362.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-013",
+              "start": 362.7,
+              "end": 456.2,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-014",
+              "start": 456.2,
+              "end": 525.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-015",
+              "start": 525.5,
+              "end": 558.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-016",
+              "start": 558.6,
+              "end": 594.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-017",
+              "start": 594.6,
+              "end": 611.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-018",
+              "start": 611.9,
+              "end": 626.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-019",
+              "start": 626.7,
+              "end": 650.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-020",
+              "start": 650.7,
+              "end": 674.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-021",
+              "start": 674.6,
+              "end": 695.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-022",
+              "start": 695.7,
+              "end": 707.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-023",
+              "start": 707.6,
+              "end": 718.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-024",
+              "start": 718.7,
+              "end": 729.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-025",
+              "start": 729.3,
+              "end": 755.4,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-026",
+              "start": 755.4,
+              "end": 795.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-027",
+              "start": 795.5,
+              "end": 832.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-028",
+              "start": 832.9,
+              "end": 847.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-029",
+              "start": 847.1,
+              "end": 867.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-030",
+              "start": 867.5,
+              "end": 884.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-031",
+              "start": 884.6,
+              "end": 910.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-032",
+              "start": 910.9,
+              "end": 934.0,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-033",
+              "start": 934.0,
+              "end": 956.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-034",
+              "start": 956.7,
+              "end": 976.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-035",
+              "start": 976.3,
+              "end": 1002.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-036",
+              "start": 1002.3,
+              "end": 1023.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-037",
+              "start": 1023.6,
+              "end": 1044.8,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-038",
+              "start": 1044.8,
+              "end": 1086.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-039",
+              "start": 1086.9,
+              "end": 1151.2,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-040",
+              "start": 1151.2,
+              "end": 1200.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-041",
+              "start": 1200.1,
+              "end": 1238.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-042",
+              "start": 1238.1,
+              "end": 1280.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-043",
+              "start": 1280.7,
+              "end": 1310.4,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-044",
+              "start": 1310.4,
+              "end": 1350.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-045",
+              "start": 1350.5,
+              "end": 1388.7,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-046",
+              "start": 1388.7,
+              "end": 1460.2,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-1-view-047",
+              "start": 1460.2,
+              "end": 1494,
+              "status": "needs_review"
+            }
+          ]
+        }
+      ],
+      "evidence": {
+        "referenceVideoSHA256": "d7f862058cbff6b1e5ba110afbfe19b755cffd052f4ff2b104f9435765c2eaa8",
+        "referenceAudioSHA256": "f266a9f4ca2de90ce0a062058f38de5509eebbd22c377f9811992092e41c759e",
+        "targetFingerprints": [
+          "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+          "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+          "sha256:2614c887b4b49c26a7b99a47b1e6a39edd292cb5e47d5aaa3cb178cb3dc91c0f",
+          "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476"
+        ],
+        "meanCosine": 0.8500342965126038,
+        "medianCosine": 0.9031491279602051,
+        "frameResolutionSeconds": 0.5,
+        "humanAuditionVerified": false,
+        "visualCorrections": [],
+        "pageMatches": [
+          {
+            "start": 4.0,
+            "pages": [
+              {
+                "page": 3,
+                "inliers": 44,
+                "bbox": [
+                  -0.6211921572685242,
+                  0.02780322916805744,
+                  0.5009174346923828,
+                  0.9676145911216736
+                ]
+              }
+            ]
+          },
+          {
+            "start": 21.0,
+            "pages": [
+              {
+                "page": 4,
+                "inliers": 94,
+                "bbox": [
+                  -0.06867286562919617,
+                  -0.10138662159442902,
+                  1.0570015907287598,
+                  0.39347055554389954
+                ]
+              }
+            ]
+          },
+          {
+            "start": 57.5,
+            "pages": [
+              {
+                "page": 4,
+                "inliers": 88,
+                "bbox": [
+                  -0.10008880496025085,
+                  0.47577837109565735,
+                  1.1028138399124146,
+                  1.0000646114349365
+                ]
+              }
+            ]
+          },
+          {
+            "start": 75.5,
+            "pages": [
+              {
+                "page": 5,
+                "inliers": 87,
+                "bbox": [
+                  -0.10792103409767151,
+                  0.007802234962582588,
+                  1.0915372371673584,
+                  0.5228468179702759
+                ]
+              }
+            ]
+          },
+          {
+            "start": 93.5,
+            "pages": [
+              {
+                "page": 5,
+                "inliers": 156,
+                "bbox": [
+                  -0.10346701741218567,
+                  0.459223210811615,
+                  1.1015230417251587,
+                  0.9762426614761353
+                ]
+              }
+            ]
+          },
+          {
+            "start": 111.5,
+            "pages": [
+              {
+                "page": 6,
+                "inliers": 184,
+                "bbox": [
+                  -0.12448009848594666,
+                  0.04321257397532463,
+                  0.951923131942749,
+                  0.9698309898376465
+                ]
+              },
+              {
+                "page": 7,
+                "inliers": 147,
+                "bbox": [
+                  0.02149883843958378,
+                  0.03509931266307831,
+                  1.1021136045455933,
+                  0.954074501991272
+                ]
+              }
+            ]
+          },
+          {
+            "start": 164.0,
+            "pages": [
+              {
+                "page": 8,
+                "inliers": 150,
+                "bbox": [
+                  -0.19182522594928741,
+                  0.032260384410619736,
+                  1.1862231492996216,
+                  0.6355014443397522
+                ]
+              }
+            ]
+          },
+          {
+            "start": 194.0,
+            "pages": [
+              {
+                "page": 8,
+                "inliers": 69,
+                "bbox": [
+                  -0.06179945543408394,
+                  0.5397303104400635,
+                  1.0460586547851562,
+                  1.0189974308013916
+                ]
+              }
+            ]
+          },
+          {
+            "start": 226.0,
+            "pages": [
+              {
+                "page": 9,
+                "inliers": 82,
+                "bbox": [
+                  -0.15692895650863647,
+                  0.01907445304095745,
+                  1.1353626251220703,
+                  0.5824258923530579
+                ]
+              }
+            ]
+          },
+          {
+            "start": 255.0,
+            "pages": [
+              {
+                "page": 9,
+                "inliers": 78,
+                "bbox": [
+                  -0.07300031930208206,
+                  0.4962863326072693,
+                  1.0664761066436768,
+                  0.9930518865585327
+                ]
+              }
+            ]
+          },
+          {
+            "start": 270.5,
+            "pages": [
+              {
+                "page": 10,
+                "inliers": 135,
+                "bbox": [
+                  -0.12963055074214935,
+                  0.03493920713663101,
+                  0.9655183553695679,
+                  0.9780008792877197
+                ]
+              },
+              {
+                "page": 11,
+                "inliers": 78,
+                "bbox": [
+                  0.02595468796789646,
+                  0.042985700070858,
+                  1.1183161735534668,
+                  0.9618525505065918
+                ]
+              }
+            ]
+          },
+          {
+            "start": 299.5,
+            "pages": [
+              {
+                "page": 12,
+                "inliers": 173,
+                "bbox": [
+                  -0.12092617154121399,
+                  0.03380097821354866,
+                  0.9731962084770203,
+                  0.9731473922729492
+                ]
+              },
+              {
+                "page": 13,
+                "inliers": 124,
+                "bbox": [
+                  0.022878631949424744,
+                  0.025698835030198097,
+                  1.1100367307662964,
+                  0.95734703540802
+                ]
+              }
+            ]
+          },
+          {
+            "start": 349.0,
+            "pages": [
+              {
+                "page": 14,
+                "inliers": 47,
+                "bbox": [
+                  -0.11951194703578949,
+                  0.029904693365097046,
+                  0.9713136553764343,
+                  0.9641528725624084
+                ]
+              },
+              {
+                "page": 15,
+                "inliers": 65,
+                "bbox": [
+                  0.019897766411304474,
+                  0.04849730804562569,
+                  1.1065114736557007,
+                  0.973515510559082
+                ]
+              }
+            ]
+          },
+          {
+            "start": 441.0,
+            "pages": [
+              {
+                "page": 16,
+                "inliers": 77,
+                "bbox": [
+                  -0.12409968674182892,
+                  0.02724625915288925,
+                  0.9776946306228638,
+                  0.9658312201499939
+                ]
+              },
+              {
+                "page": 17,
+                "inliers": 70,
+                "bbox": [
+                  0.025669468566775322,
+                  0.052580542862415314,
+                  1.1123952865600586,
+                  0.9768343567848206
+                ]
+              }
+            ]
+          },
+          {
+            "start": 508.5,
+            "pages": [
+              {
+                "page": 18,
+                "inliers": 152,
+                "bbox": [
+                  -0.16416765749454498,
+                  -0.012833982706069946,
+                  1.1616424322128296,
+                  0.5575131773948669
+                ]
+              }
+            ]
+          },
+          {
+            "start": 541.0,
+            "pages": [
+              {
+                "page": 18,
+                "inliers": 72,
+                "bbox": [
+                  -0.051773615181446075,
+                  0.38971441984176636,
+                  1.0449764728546143,
+                  0.8596867918968201
+                ]
+              }
+            ]
+          },
+          {
+            "start": 573.0,
+            "pages": [
+              {
+                "page": 19,
+                "inliers": 93,
+                "bbox": [
+                  -0.05240436643362045,
+                  -0.022350193932652473,
+                  1.055870532989502,
+                  0.4469614028930664
+                ]
+              }
+            ]
+          },
+          {
+            "start": 588.5,
+            "pages": [
+              {
+                "page": 19,
+                "inliers": 156,
+                "bbox": [
+                  -0.2554682195186615,
+                  0.33017078042030334,
+                  1.2439932823181152,
+                  0.965755820274353
+                ]
+              }
+            ]
+          },
+          {
+            "start": 602.5,
+            "pages": [
+              {
+                "page": 20,
+                "inliers": 142,
+                "bbox": [
+                  -0.12765787541866302,
+                  0.044242002069950104,
+                  0.9687479138374329,
+                  0.9703463315963745
+                ]
+              },
+              {
+                "page": 21,
+                "inliers": 154,
+                "bbox": [
+                  0.033473946154117584,
+                  0.0563540905714035,
+                  1.117536187171936,
+                  0.9757111668586731
+                ]
+              }
+            ]
+          },
+          {
+            "start": 627.0,
+            "pages": [
+              {
+                "page": 22,
+                "inliers": 85,
+                "bbox": [
+                  -0.1321897655725479,
+                  0.018113140016794205,
+                  0.9698096513748169,
+                  0.9617299437522888
+                ]
+              },
+              {
+                "page": 23,
+                "inliers": 117,
+                "bbox": [
+                  0.039117131382226944,
+                  0.032141827046871185,
+                  1.1398884057998657,
+                  0.964205265045166
+                ]
+              }
+            ]
+          },
+          {
+            "start": 652.5,
+            "pages": [
+              {
+                "page": 24,
+                "inliers": 138,
+                "bbox": [
+                  -0.13389459252357483,
+                  0.02324448898434639,
+                  0.969828188419342,
+                  0.9746790528297424
+                ]
+              },
+              {
+                "page": 25,
+                "inliers": 98,
+                "bbox": [
+                  0.01665627956390381,
+                  0.033934708684682846,
+                  1.118286371231079,
+                  0.9630985856056213
+                ]
+              }
+            ]
+          },
+          {
+            "start": 674.5,
+            "pages": [
+              {
+                "page": 26,
+                "inliers": 49,
+                "bbox": [
+                  0.4943074882030487,
+                  0.02312815561890602,
+                  1.6026556491851807,
+                  0.9583632946014404
+                ]
+              }
+            ]
+          },
+          {
+            "start": 686.5,
+            "pages": [
+              {
+                "page": 27,
+                "inliers": 71,
+                "bbox": [
+                  -0.16750690340995789,
+                  0.010534568689763546,
+                  1.1525195837020874,
+                  0.575342059135437
+                ]
+              }
+            ]
+          },
+          {
+            "start": 697.0,
+            "pages": [
+              {
+                "page": 27,
+                "inliers": 67,
+                "bbox": [
+                  -0.17163850367069244,
+                  0.45302823185920715,
+                  1.1453135013580322,
+                  1.0210425853729248
+                ]
+              }
+            ]
+          },
+          {
+            "start": 706.5,
+            "pages": [
+              {
+                "page": 28,
+                "inliers": 124,
+                "bbox": [
+                  -0.12963014841079712,
+                  0.0401318185031414,
+                  0.9686089158058167,
+                  0.9716704487800598
+                ]
+              },
+              {
+                "page": 29,
+                "inliers": 81,
+                "bbox": [
+                  0.0259549543261528,
+                  0.04446448013186455,
+                  1.1211779117584229,
+                  0.9737116694450378
+                ]
+              }
+            ]
+          },
+          {
+            "start": 730.5,
+            "pages": [
+              {
+                "page": 30,
+                "inliers": 79,
+                "bbox": [
+                  -0.12301833927631378,
+                  0.027934079989790916,
+                  0.970709502696991,
+                  0.9644812345504761
+                ]
+              },
+              {
+                "page": 31,
+                "inliers": 93,
+                "bbox": [
+                  0.006168372463434935,
+                  0.03324461728334427,
+                  1.1078546047210693,
+                  0.9555941224098206
+                ]
+              }
+            ]
+          },
+          {
+            "start": 767.5,
+            "pages": [
+              {
+                "page": 32,
+                "inliers": 49,
+                "bbox": [
+                  -0.028177626430988312,
+                  -0.09040812402963638,
+                  1.0287964344024658,
+                  0.36661478877067566
+                ]
+              }
+            ]
+          },
+          {
+            "start": 808.0,
+            "pages": [
+              {
+                "page": 32,
+                "inliers": 88,
+                "bbox": [
+                  -0.11310175061225891,
+                  0.4525313377380371,
+                  1.0945020914077759,
+                  0.9712382555007935
+                ]
+              }
+            ]
+          },
+          {
+            "start": 823.0,
+            "pages": [
+              {
+                "page": 33,
+                "inliers": 158,
+                "bbox": [
+                  -0.17365024983882904,
+                  -0.008368635550141335,
+                  1.143540859222412,
+                  0.5653212666511536
+                ]
+              }
+            ]
+          },
+          {
+            "start": 844.0,
+            "pages": [
+              {
+                "page": 33,
+                "inliers": 211,
+                "bbox": [
+                  -0.16253679990768433,
+                  0.4433850944042206,
+                  1.1486642360687256,
+                  1.0151548385620117
+                ]
+              }
+            ]
+          },
+          {
+            "start": 861.0,
+            "pages": [
+              {
+                "page": 34,
+                "inliers": 170,
+                "bbox": [
+                  -0.13578681647777557,
+                  0.027865802869200706,
+                  0.9701927900314331,
+                  0.9662178158760071
+                ]
+              },
+              {
+                "page": 35,
+                "inliers": 173,
+                "bbox": [
+                  0.016430212184786797,
+                  0.025487646460533142,
+                  1.1103781461715698,
+                  0.9647164344787598
+                ]
+              }
+            ]
+          },
+          {
+            "start": 887.0,
+            "pages": [
+              {
+                "page": 36,
+                "inliers": 138,
+                "bbox": [
+                  -0.12548494338989258,
+                  0.028150778263807297,
+                  0.9693293571472168,
+                  0.9686283469200134
+                ]
+              },
+              {
+                "page": 37,
+                "inliers": 185,
+                "bbox": [
+                  0.014786602929234505,
+                  0.0516907200217247,
+                  1.1074954271316528,
+                  0.9777824282646179
+                ]
+              }
+            ]
+          },
+          {
+            "start": 910.5,
+            "pages": [
+              {
+                "page": 38,
+                "inliers": 122,
+                "bbox": [
+                  -0.12725602090358734,
+                  0.042456988245248795,
+                  0.9767777919769287,
+                  0.9739216566085815
+                ]
+              },
+              {
+                "page": 39,
+                "inliers": 154,
+                "bbox": [
+                  0.018029017373919487,
+                  0.038503095507621765,
+                  1.1109730005264282,
+                  0.9625279903411865
+                ]
+              }
+            ]
+          },
+          {
+            "start": 932.5,
+            "pages": [
+              {
+                "page": 40,
+                "inliers": 157,
+                "bbox": [
+                  -0.12742550671100616,
+                  0.022757871076464653,
+                  0.966829240322113,
+                  0.9664927124977112
+                ]
+              },
+              {
+                "page": 41,
+                "inliers": 99,
+                "bbox": [
+                  0.011900312267243862,
+                  0.05493135005235672,
+                  1.1140053272247314,
+                  0.9786420464515686
+                ]
+              }
+            ]
+          },
+          {
+            "start": 950.5,
+            "pages": [
+              {
+                "page": 42,
+                "inliers": 109,
+                "bbox": [
+                  0.4852456748485565,
+                  0.015593430958688259,
+                  1.5969945192337036,
+                  0.9641176462173462
+                ]
+              }
+            ]
+          },
+          {
+            "start": 975.0,
+            "pages": [
+              {
+                "page": 43,
+                "inliers": 97,
+                "bbox": [
+                  -0.1663745492696762,
+                  -0.01388750784099102,
+                  1.155136227607727,
+                  0.5464125275611877
+                ]
+              }
+            ]
+          },
+          {
+            "start": 994.0,
+            "pages": [
+              {
+                "page": 43,
+                "inliers": 159,
+                "bbox": [
+                  -0.16227886080741882,
+                  0.4215153157711029,
+                  1.1638461351394653,
+                  0.9917190074920654
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1013.0,
+            "pages": [
+              {
+                "page": 44,
+                "inliers": 174,
+                "bbox": [
+                  -0.13771919906139374,
+                  0.03847823292016983,
+                  0.9642886519432068,
+                  0.9732496738433838
+                ]
+              },
+              {
+                "page": 45,
+                "inliers": 171,
+                "bbox": [
+                  0.025793222710490227,
+                  0.038248732686042786,
+                  1.124401569366455,
+                  0.9606578946113586
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1051.5,
+            "pages": [
+              {
+                "page": 46,
+                "inliers": 85,
+                "bbox": [
+                  -0.1261788308620453,
+                  0.03364229574799538,
+                  0.9702931642532349,
+                  0.9620462656021118
+                ]
+              },
+              {
+                "page": 47,
+                "inliers": 69,
+                "bbox": [
+                  0.02829725667834282,
+                  0.041289303451776505,
+                  1.1110570430755615,
+                  0.9597328305244446
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1113.5,
+            "pages": [
+              {
+                "page": 48,
+                "inliers": 161,
+                "bbox": [
+                  -0.33721160888671875,
+                  0.017300592735409737,
+                  1.3436245918273926,
+                  0.7465552687644958
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1158.5,
+            "pages": [
+              {
+                "page": 48,
+                "inliers": 58,
+                "bbox": [
+                  -0.036827292293310165,
+                  0.6088722348213196,
+                  1.0150299072265625,
+                  1.0630440711975098
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1193.0,
+            "pages": [
+              {
+                "page": 49,
+                "inliers": 72,
+                "bbox": [
+                  -0.16748453676700592,
+                  0.033226463943719864,
+                  1.1456272602081299,
+                  0.5914362668991089
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1230.0,
+            "pages": [
+              {
+                "page": 49,
+                "inliers": 53,
+                "bbox": [
+                  -0.10427665710449219,
+                  0.5090272426605225,
+                  1.0802195072174072,
+                  1.0178817510604858
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1256.0,
+            "pages": [
+              {
+                "page": 50,
+                "inliers": 147,
+                "bbox": [
+                  -0.12765872478485107,
+                  0.04951510205864906,
+                  0.9770495295524597,
+                  0.9783034920692444
+                ]
+              },
+              {
+                "page": 51,
+                "inliers": 159,
+                "bbox": [
+                  0.024318229407072067,
+                  0.05307381600141525,
+                  1.1163252592086792,
+                  0.9760540127754211
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1292.5,
+            "pages": [
+              {
+                "page": 52,
+                "inliers": 141,
+                "bbox": [
+                  -0.12155656516551971,
+                  0.03197476640343666,
+                  0.977378249168396,
+                  0.972025990486145
+                ]
+              },
+              {
+                "page": 53,
+                "inliers": 102,
+                "bbox": [
+                  0.011835170909762383,
+                  0.03655475005507469,
+                  1.110249400138855,
+                  0.9582039713859558
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1330.0,
+            "pages": [
+              {
+                "page": 54,
+                "inliers": 79,
+                "bbox": [
+                  -0.13466179370880127,
+                  0.044388312846422195,
+                  0.963687002658844,
+                  0.9603319764137268
+                ]
+              },
+              {
+                "page": 55,
+                "inliers": 60,
+                "bbox": [
+                  0.0173060093075037,
+                  0.04561161249876022,
+                  1.115329623222351,
+                  0.9609648585319519
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1403.5,
+            "pages": [
+              {
+                "page": 56,
+                "inliers": 49,
+                "bbox": [
+                  0.4895799160003662,
+                  0.027867401018738747,
+                  1.5936331748962402,
+                  0.965042233467102
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "version": 1,
+      "movement": 2,
+      "edition": "mahler2-imslp415748-ue-scan",
+      "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+      "granularity": "page_system",
+      "status": "needs_review",
+      "method": "Offline full-work 10Hz chroma MrMsDTW between reference and project recording; SIFT/RANSAC page-turn recognition at 2 fps, with recorded visual corrections. Continuous-file-local seconds. Page/system follow only; no generated measure numbering.",
+      "sources": [
+        {
+          "title": "symphony7526：Mahler Symphony No. 2 with Score / Bernstein LSO",
+          "url": "https://www.youtube.com/watch?v=C-1d0OY6o0k",
+          "usage": "用户提供的整部跟谱视频作为离线翻页与声音对齐参考；不打包视频画面或参考音轨。"
+        },
+        {
+          "title": "IMSLP #415748 历史UE重印扫描",
+          "url": "https://imslp.org/wiki/Symphony_No.2_(Mahler,_Gustav)",
+          "usage": "使用同一历史UE重印扫描的原谱图像；页码为PDF页序，不把图像识别当作音符转录。"
+        },
+        {
+          "title": "Sync Toolbox / MIT",
+          "url": "https://github.com/groupmm/synctoolbox",
+          "usage": "本地离线生成估计时间映射；不是人工审阅或逐音定位。"
+        }
+      ],
+      "regions": [
+        {
+          "id": "ue-2-view-001",
+          "pages": [
+            {
+              "page": 57,
+              "url": "/assets/scores/work/page-57.webp",
+              "box": [
+                0,
+                0.00575,
+                1,
+                0.4704
+              ]
+            }
+          ],
+          "sourceStart": 1438.5,
+          "sourceEnd": 1460.5
+        },
+        {
+          "id": "ue-2-view-002",
+          "pages": [
+            {
+              "page": 57,
+              "url": "/assets/scores/work/page-57.webp",
+              "box": [
+                0,
+                0.30403,
+                1,
+                0.47252
+              ]
+            }
+          ],
+          "sourceStart": 1460.5,
+          "sourceEnd": 1509.5
+        },
+        {
+          "id": "ue-2-view-003",
+          "pages": [
+            {
+              "page": 58,
+              "url": "/assets/scores/work/page-58.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.41366
+              ]
+            }
+          ],
+          "sourceStart": 1509.5,
+          "sourceEnd": 1555.0
+        },
+        {
+          "id": "ue-2-view-004",
+          "pages": [
+            {
+              "page": 58,
+              "url": "/assets/scores/work/page-58.webp",
+              "box": [
+                0,
+                0.55751,
+                1,
+                0.44249
+              ]
+            }
+          ],
+          "sourceStart": 1555.0,
+          "sourceEnd": 1568.0
+        },
+        {
+          "id": "ue-2-view-005",
+          "pages": [
+            {
+              "page": 59,
+              "url": "/assets/scores/work/page-59.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.4253
+              ]
+            }
+          ],
+          "sourceStart": 1568.0,
+          "sourceEnd": 1593.0
+        },
+        {
+          "id": "ue-2-view-006",
+          "pages": [
+            {
+              "page": 59,
+              "url": "/assets/scores/work/page-59.webp",
+              "box": [
+                0,
+                0.50821,
+                1,
+                0.48686
+              ]
+            }
+          ],
+          "sourceStart": 1593.0,
+          "sourceEnd": 1607.5
+        },
+        {
+          "id": "ue-2-view-007",
+          "pages": [
+            {
+              "page": 60,
+              "url": "/assets/scores/work/page-60.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1607.5,
+          "sourceEnd": 1622.0
+        },
+        {
+          "id": "ue-2-view-008",
+          "pages": [
+            {
+              "page": 61,
+              "url": "/assets/scores/work/page-61.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.46094
+              ]
+            }
+          ],
+          "sourceStart": 1622.0,
+          "sourceEnd": 1632.0
+        },
+        {
+          "id": "ue-2-view-009",
+          "pages": [
+            {
+              "page": 61,
+              "url": "/assets/scores/work/page-61.webp",
+              "box": [
+                0,
+                0.2849,
+                1,
+                0.46872
+              ]
+            }
+          ],
+          "sourceStart": 1632.0,
+          "sourceEnd": 1680.5
+        },
+        {
+          "id": "ue-2-view-010",
+          "pages": [
+            {
+              "page": 62,
+              "url": "/assets/scores/work/page-62.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.41864
+              ]
+            }
+          ],
+          "sourceStart": 1680.5,
+          "sourceEnd": 1729.5
+        },
+        {
+          "id": "ue-2-view-011",
+          "pages": [
+            {
+              "page": 62,
+              "url": "/assets/scores/work/page-62.webp",
+              "box": [
+                0,
+                0.50231,
+                1,
+                0.49281
+              ]
+            }
+          ],
+          "sourceStart": 1729.5,
+          "sourceEnd": 1756.0
+        },
+        {
+          "id": "ue-2-view-012",
+          "pages": [
+            {
+              "page": 63,
+              "url": "/assets/scores/work/page-63.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.49368
+              ]
+            }
+          ],
+          "sourceStart": 1756.0,
+          "sourceEnd": 1780.0
+        },
+        {
+          "id": "ue-2-view-013",
+          "pages": [
+            {
+              "page": 63,
+              "url": "/assets/scores/work/page-63.webp",
+              "box": [
+                0,
+                0.39663,
+                1,
+                0.57813
+              ]
+            }
+          ],
+          "sourceStart": 1780.0,
+          "sourceEnd": 1791.5
+        },
+        {
+          "id": "ue-2-view-014",
+          "pages": [
+            {
+              "page": 64,
+              "url": "/assets/scores/work/page-64.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 65,
+              "url": "/assets/scores/work/page-65.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1791.5,
+          "sourceEnd": 1816.0
+        },
+        {
+          "id": "ue-2-view-015",
+          "pages": [
+            {
+              "page": 66,
+              "url": "/assets/scores/work/page-66.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 67,
+              "url": "/assets/scores/work/page-67.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1816.0,
+          "sourceEnd": 1843.0
+        },
+        {
+          "id": "ue-2-view-016",
+          "pages": [
+            {
+              "page": 68,
+              "url": "/assets/scores/work/page-68.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 69,
+              "url": "/assets/scores/work/page-69.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1843.0,
+          "sourceEnd": 1868.0
+        },
+        {
+          "id": "ue-2-view-017",
+          "pages": [
+            {
+              "page": 70,
+              "url": "/assets/scores/work/page-70.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 71,
+              "url": "/assets/scores/work/page-71.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1868.0,
+          "sourceEnd": 1893.5
+        },
+        {
+          "id": "ue-2-view-018",
+          "pages": [
+            {
+              "page": 72,
+              "url": "/assets/scores/work/page-72.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1893.5,
+          "sourceEnd": 1908.0
+        },
+        {
+          "id": "ue-2-view-019",
+          "pages": [
+            {
+              "page": 73,
+              "url": "/assets/scores/work/page-73.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.44789
+              ]
+            }
+          ],
+          "sourceStart": 1908.0,
+          "sourceEnd": 1932.0
+        },
+        {
+          "id": "ue-2-view-020",
+          "pages": [
+            {
+              "page": 73,
+              "url": "/assets/scores/work/page-73.webp",
+              "box": [
+                0,
+                0.31932,
+                1,
+                0.65728
+              ]
+            }
+          ],
+          "sourceStart": 1932.0,
+          "sourceEnd": 1959.0
+        },
+        {
+          "id": "ue-2-view-021",
+          "pages": [
+            {
+              "page": 74,
+              "url": "/assets/scores/work/page-74.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.56147
+              ]
+            }
+          ],
+          "sourceStart": 1959.0,
+          "sourceEnd": 1981.5
+        },
+        {
+          "id": "ue-2-view-022",
+          "pages": [
+            {
+              "page": 74,
+              "url": "/assets/scores/work/page-74.webp",
+              "box": [
+                0,
+                0.44114,
+                1,
+                0.55886
+              ]
+            }
+          ],
+          "sourceStart": 1981.5,
+          "sourceEnd": 1999.0
+        },
+        {
+          "id": "ue-2-view-023",
+          "pages": [
+            {
+              "page": 75,
+              "url": "/assets/scores/work/page-75.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 1999.0,
+          "sourceEnd": 2025.5
+        },
+        {
+          "id": "ue-2-view-024",
+          "pages": [
+            {
+              "page": 76,
+              "url": "/assets/scores/work/page-76.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 77,
+              "url": "/assets/scores/work/page-77.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 2025.5,
+          "sourceEnd": 2091.0
+        },
+        {
+          "id": "ue-2-view-025",
+          "pages": [
+            {
+              "page": 78,
+              "url": "/assets/scores/work/page-78.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 79,
+              "url": "/assets/scores/work/page-79.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 2091.0,
+          "sourceEnd": 2171.8
+        }
+      ],
+      "tracks": [
+        {
+          "id": "movement-2-continuous",
+          "fingerprint": "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+          "duration": 726,
+          "intervals": [
+            {
+              "regionId": "ue-2-view-001",
+              "start": 0,
+              "end": 21.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-002",
+              "start": 21.9,
+              "end": 69.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-003",
+              "start": 69.6,
+              "end": 114.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-004",
+              "start": 114.3,
+              "end": 128.0,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-005",
+              "start": 128.0,
+              "end": 153.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-006",
+              "start": 153.9,
+              "end": 169.0,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-007",
+              "start": 169.0,
+              "end": 183.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-008",
+              "start": 183.9,
+              "end": 193.8,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-009",
+              "start": 193.8,
+              "end": 242.8,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-010",
+              "start": 242.8,
+              "end": 290.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-011",
+              "start": 290.6,
+              "end": 315.6,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-012",
+              "start": 315.6,
+              "end": 337.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-013",
+              "start": 337.3,
+              "end": 348.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-014",
+              "start": 348.5,
+              "end": 372.2,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-015",
+              "start": 372.2,
+              "end": 397.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-016",
+              "start": 397.9,
+              "end": 422.1,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-017",
+              "start": 422.1,
+              "end": 446.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-018",
+              "start": 446.9,
+              "end": 461.4,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-019",
+              "start": 461.4,
+              "end": 486.2,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-020",
+              "start": 486.2,
+              "end": 513.0,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-021",
+              "start": 513.0,
+              "end": 535.8,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-022",
+              "start": 535.8,
+              "end": 553.5,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-023",
+              "start": 553.5,
+              "end": 581.3,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-024",
+              "start": 581.3,
+              "end": 644.9,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-2-view-025",
+              "start": 644.9,
+              "end": 726,
+              "status": "needs_review"
+            }
+          ]
+        }
+      ],
+      "evidence": {
+        "referenceVideoSHA256": "d7f862058cbff6b1e5ba110afbfe19b755cffd052f4ff2b104f9435765c2eaa8",
+        "referenceAudioSHA256": "f266a9f4ca2de90ce0a062058f38de5509eebbd22c377f9811992092e41c759e",
+        "targetFingerprints": [
+          "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+          "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+          "sha256:2614c887b4b49c26a7b99a47b1e6a39edd292cb5e47d5aaa3cb178cb3dc91c0f",
+          "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476"
+        ],
+        "meanCosine": 0.8500342965126038,
+        "medianCosine": 0.9031491279602051,
+        "frameResolutionSeconds": 0.5,
+        "humanAuditionVerified": false,
+        "visualCorrections": [],
+        "pageMatches": [
+          {
+            "start": 1438.5,
+            "pages": [
+              {
+                "page": 57,
+                "inliers": 110,
+                "bbox": [
+                  -0.06235925108194351,
+                  0.005745076574385166,
+                  1.0484238862991333,
+                  0.4761497676372528
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1460.5,
+            "pages": [
+              {
+                "page": 57,
+                "inliers": 119,
+                "bbox": [
+                  -0.060048170387744904,
+                  0.3040280342102051,
+                  1.0459327697753906,
+                  0.7765451073646545
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1509.5,
+            "pages": [
+              {
+                "page": 58,
+                "inliers": 94,
+                "bbox": [
+                  -0.06073569506406784,
+                  -0.06858766824007034,
+                  1.0578871965408325,
+                  0.41366344690322876
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1555.0,
+            "pages": [
+              {
+                "page": 58,
+                "inliers": 166,
+                "bbox": [
+                  -0.07227110117673874,
+                  0.5575082898139954,
+                  1.0448633432388306,
+                  1.0377037525177002
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1568.0,
+            "pages": [
+              {
+                "page": 59,
+                "inliers": 66,
+                "bbox": [
+                  -0.05886939540505409,
+                  -0.052210789173841476,
+                  1.0567220449447632,
+                  0.4252973198890686
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1593.0,
+            "pages": [
+              {
+                "page": 59,
+                "inliers": 104,
+                "bbox": [
+                  -0.05911311134696007,
+                  0.5082062482833862,
+                  1.0534433126449585,
+                  0.995063066482544
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1607.5,
+            "pages": [
+              {
+                "page": 60,
+                "inliers": 156,
+                "bbox": [
+                  0.48672056198120117,
+                  0.03430486470460892,
+                  1.5934675931930542,
+                  0.9666752219200134
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1622.0,
+            "pages": [
+              {
+                "page": 61,
+                "inliers": 98,
+                "bbox": [
+                  -0.060406528413295746,
+                  -0.007987698540091515,
+                  1.0414867401123047,
+                  0.4609423577785492
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1632.0,
+            "pages": [
+              {
+                "page": 61,
+                "inliers": 57,
+                "bbox": [
+                  -0.05656210705637932,
+                  0.28490281105041504,
+                  1.0510268211364746,
+                  0.7536260485649109
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1680.5,
+            "pages": [
+              {
+                "page": 62,
+                "inliers": 128,
+                "bbox": [
+                  -0.054073065519332886,
+                  -0.05454503744840622,
+                  1.0503379106521606,
+                  0.4186358153820038
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1729.5,
+            "pages": [
+              {
+                "page": 62,
+                "inliers": 132,
+                "bbox": [
+                  -0.08742084354162216,
+                  0.502311110496521,
+                  1.0674052238464355,
+                  0.995125412940979
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1756.0,
+            "pages": [
+              {
+                "page": 63,
+                "inliers": 131,
+                "bbox": [
+                  -0.08231052756309509,
+                  -0.003070434322580695,
+                  1.0850023031234741,
+                  0.49368175864219666
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1780.0,
+            "pages": [
+              {
+                "page": 63,
+                "inliers": 252,
+                "bbox": [
+                  -0.18613536655902863,
+                  0.3966257870197296,
+                  1.1788597106933594,
+                  0.9747517704963684
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1791.5,
+            "pages": [
+              {
+                "page": 64,
+                "inliers": 141,
+                "bbox": [
+                  -0.11801963299512863,
+                  0.05327305197715759,
+                  0.9726787805557251,
+                  0.9763535261154175
+                ]
+              },
+              {
+                "page": 65,
+                "inliers": 210,
+                "bbox": [
+                  0.019060516729950905,
+                  0.04186389222741127,
+                  1.0915439128875732,
+                  0.9545310139656067
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1816.0,
+            "pages": [
+              {
+                "page": 66,
+                "inliers": 197,
+                "bbox": [
+                  -0.12133114784955978,
+                  0.039102863520383835,
+                  0.968273937702179,
+                  0.9683423638343811
+                ]
+              },
+              {
+                "page": 67,
+                "inliers": 198,
+                "bbox": [
+                  0.02694571763277054,
+                  0.043163612484931946,
+                  1.0916508436203003,
+                  0.9490841031074524
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1843.0,
+            "pages": [
+              {
+                "page": 68,
+                "inliers": 183,
+                "bbox": [
+                  -0.13044233620166779,
+                  0.036885879933834076,
+                  0.9573165774345398,
+                  0.9604532718658447
+                ]
+              },
+              {
+                "page": 69,
+                "inliers": 136,
+                "bbox": [
+                  0.01960417442023754,
+                  0.046283721923828125,
+                  1.0895038843154907,
+                  0.9580666422843933
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1868.0,
+            "pages": [
+              {
+                "page": 70,
+                "inliers": 175,
+                "bbox": [
+                  -0.12018632143735886,
+                  0.03785954788327217,
+                  0.9692187905311584,
+                  0.9636836051940918
+                ]
+              },
+              {
+                "page": 71,
+                "inliers": 153,
+                "bbox": [
+                  0.017285943031311035,
+                  0.03894883021712303,
+                  1.0988980531692505,
+                  0.9532397389411926
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1893.5,
+            "pages": [
+              {
+                "page": 72,
+                "inliers": 98,
+                "bbox": [
+                  -0.5892103910446167,
+                  0.0363142192363739,
+                  0.5065435767173767,
+                  0.9574121236801147
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1908.0,
+            "pages": [
+              {
+                "page": 73,
+                "inliers": 64,
+                "bbox": [
+                  -0.05096807703375816,
+                  -0.020443663001060486,
+                  1.0511243343353271,
+                  0.4478931725025177
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1932.0,
+            "pages": [
+              {
+                "page": 73,
+                "inliers": 130,
+                "bbox": [
+                  -0.27829408645629883,
+                  0.3193202614784241,
+                  1.2632436752319336,
+                  0.9766041040420532
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1959.0,
+            "pages": [
+              {
+                "page": 74,
+                "inliers": 109,
+                "bbox": [
+                  -0.17098714411258698,
+                  -0.011403334327042103,
+                  1.1570043563842773,
+                  0.56147301197052
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1981.5,
+            "pages": [
+              {
+                "page": 74,
+                "inliers": 141,
+                "bbox": [
+                  -0.17386332154273987,
+                  0.4411413371562958,
+                  1.1565794944763184,
+                  1.011861801147461
+                ]
+              }
+            ]
+          },
+          {
+            "start": 1999.0,
+            "pages": [
+              {
+                "page": 75,
+                "inliers": 73,
+                "bbox": [
+                  0.5034780502319336,
+                  0.03637498617172241,
+                  1.5805778503417969,
+                  0.9578921794891357
+                ]
+              }
+            ]
+          },
+          {
+            "start": 2025.5,
+            "pages": [
+              {
+                "page": 76,
+                "inliers": 235,
+                "bbox": [
+                  -0.1165342777967453,
+                  0.040066398680210114,
+                  0.9715601205825806,
+                  0.956857442855835
+                ]
+              },
+              {
+                "page": 77,
+                "inliers": 190,
+                "bbox": [
+                  0.03326720744371414,
+                  0.04278690740466118,
+                  1.1081311702728271,
+                  0.954670786857605
+                ]
+              }
+            ]
+          },
+          {
+            "start": 2091.0,
+            "pages": [
+              {
+                "page": 78,
+                "inliers": 89,
+                "bbox": [
+                  -0.13588449358940125,
+                  0.032743342220783234,
+                  0.9599058032035828,
+                  0.9597840905189514
+                ]
+              },
+              {
+                "page": 79,
+                "inliers": 92,
+                "bbox": [
+                  0.028994902968406677,
+                  0.05176069959998131,
+                  1.1009652614593506,
+                  0.9564894437789917
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "version": 1,
+      "movement": 4,
+      "edition": "mahler2-imslp415748-ue-scan",
+      "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+      "granularity": "page_system",
+      "status": "needs_review",
+      "method": "Offline full-work 10Hz chroma MrMsDTW between reference and project recording; SIFT/RANSAC page-turn recognition at 2 fps, with recorded visual corrections. Continuous-file-local seconds. Page/system follow only; no generated measure numbering.",
+      "sources": [
+        {
+          "title": "symphony7526：Mahler Symphony No. 2 with Score / Bernstein LSO",
+          "url": "https://www.youtube.com/watch?v=C-1d0OY6o0k",
+          "usage": "用户提供的整部跟谱视频作为离线翻页与声音对齐参考；不打包视频画面或参考音轨。"
+        },
+        {
+          "title": "IMSLP #415748 历史UE重印扫描",
+          "url": "https://imslp.org/wiki/Symphony_No.2_(Mahler,_Gustav)",
+          "usage": "使用同一历史UE重印扫描的原谱图像；页码为PDF页序，不把图像识别当作音符转录。"
+        },
+        {
+          "title": "Sync Toolbox / MIT",
+          "url": "https://github.com/groupmm/synctoolbox",
+          "usage": "本地离线生成估计时间映射；不是人工审阅或逐音定位。"
+        }
+      ],
+      "regions": [
+        {
+          "id": "ue-4-view-001",
+          "pages": [
+            {
+              "page": 128,
+              "url": "/assets/scores/work/page-128.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 2822.0,
+          "sourceEnd": 2886.5
+        },
+        {
+          "id": "ue-4-view-002",
+          "pages": [
+            {
+              "page": 129,
+              "url": "/assets/scores/work/page-129.webp",
+              "box": [
+                0,
+                0.02455,
+                1,
+                0.61377
+              ]
+            }
+          ],
+          "sourceStart": 2886.5,
+          "sourceEnd": 2936.0
+        },
+        {
+          "id": "ue-4-view-003",
+          "pages": [
+            {
+              "page": 129,
+              "url": "/assets/scores/work/page-129.webp",
+              "box": [
+                0,
+                0.51843,
+                1,
+                0.48157
+              ]
+            }
+          ],
+          "sourceStart": 2936.0,
+          "sourceEnd": 2994.0
+        },
+        {
+          "id": "ue-4-view-004",
+          "pages": [
+            {
+              "page": 130,
+              "url": "/assets/scores/work/page-130.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.55467
+              ]
+            }
+          ],
+          "sourceStart": 2994.0,
+          "sourceEnd": 3026.0
+        },
+        {
+          "id": "ue-4-view-005",
+          "pages": [
+            {
+              "page": 130,
+              "url": "/assets/scores/work/page-130.webp",
+              "box": [
+                0,
+                0.46022,
+                1,
+                0.53978
+              ]
+            }
+          ],
+          "sourceStart": 3026.0,
+          "sourceEnd": 3043.5
+        },
+        {
+          "id": "ue-4-view-006",
+          "pages": [
+            {
+              "page": 131,
+              "url": "/assets/scores/work/page-131.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3043.5,
+          "sourceEnd": 3070.0
+        },
+        {
+          "id": "ue-4-view-007",
+          "pages": [
+            {
+              "page": 132,
+              "url": "/assets/scores/work/page-132.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 133,
+              "url": "/assets/scores/work/page-133.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3070.0,
+          "sourceEnd": 3188.5333333333333
+        }
+      ],
+      "tracks": [
+        {
+          "id": "movement-4-continuous",
+          "fingerprint": "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "duration": 378.50666666666666,
+          "intervals": [
+            {
+              "regionId": "ue-4-view-001",
+              "start": 0,
+              "end": 66.073333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-002",
+              "start": 66.073333,
+              "end": 118.873333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-003",
+              "start": 118.873333,
+              "end": 175.873333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-004",
+              "start": 175.873333,
+              "end": 213.873333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-005",
+              "start": 213.873333,
+              "end": 235.073333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-006",
+              "start": 235.073333,
+              "end": 266.073333,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-4-view-007",
+              "start": 266.073333,
+              "end": 378.50666666666666,
+              "status": "needs_review"
+            }
+          ]
+        }
+      ],
+      "evidence": {
+        "referenceVideoSHA256": "d7f862058cbff6b1e5ba110afbfe19b755cffd052f4ff2b104f9435765c2eaa8",
+        "referenceAudioSHA256": "f266a9f4ca2de90ce0a062058f38de5509eebbd22c377f9811992092e41c759e",
+        "targetFingerprints": [
+          "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+          "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+          "sha256:2614c887b4b49c26a7b99a47b1e6a39edd292cb5e47d5aaa3cb178cb3dc91c0f",
+          "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476"
+        ],
+        "meanCosine": 0.8500342965126038,
+        "medianCosine": 0.9031491279602051,
+        "frameResolutionSeconds": 0.5,
+        "humanAuditionVerified": false,
+        "visualCorrections": [],
+        "pageMatches": [
+          {
+            "start": 2822.0,
+            "pages": [
+              {
+                "page": 128,
+                "inliers": 48,
+                "bbox": [
+                  -0.564602792263031,
+                  0.04487128555774689,
+                  0.4823151230812073,
+                  0.9726258516311646
+                ]
+              }
+            ]
+          },
+          {
+            "start": 2886.5,
+            "pages": [
+              {
+                "page": 129,
+                "inliers": 54,
+                "bbox": [
+                  -0.23274382948875427,
+                  0.024551546201109886,
+                  1.1908963918685913,
+                  0.6383199095726013
+                ]
+              }
+            ]
+          },
+          {
+            "start": 2936.0,
+            "pages": [
+              {
+                "page": 129,
+                "inliers": 78,
+                "bbox": [
+                  -0.10931311547756195,
+                  0.5184330940246582,
+                  1.0748543739318848,
+                  1.0276998281478882
+                ]
+              }
+            ]
+          },
+          {
+            "start": 2994.0,
+            "pages": [
+              {
+                "page": 130,
+                "inliers": 72,
+                "bbox": [
+                  -0.11049225926399231,
+                  -0.000762732932344079,
+                  1.1255089044570923,
+                  0.554673969745636
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3026.0,
+            "pages": [
+              {
+                "page": 130,
+                "inliers": 54,
+                "bbox": [
+                  -0.11136754602193832,
+                  0.4602205455303192,
+                  1.1294677257537842,
+                  1.0161569118499756
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3043.5,
+            "pages": [
+              {
+                "page": 131,
+                "inliers": 50,
+                "bbox": [
+                  -0.6031903028488159,
+                  0.03796159848570824,
+                  0.5039883852005005,
+                  0.9750405550003052
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3070.0,
+            "pages": [
+              {
+                "page": 132,
+                "inliers": 67,
+                "bbox": [
+                  -0.12862172722816467,
+                  0.019540276378393173,
+                  0.9577479958534241,
+                  0.9578374028205872
+                ]
+              },
+              {
+                "page": 133,
+                "inliers": 112,
+                "bbox": [
+                  0.025021269917488098,
+                  0.041436243802309036,
+                  1.1064822673797607,
+                  0.9660230278968811
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "version": 1,
+      "movement": 5,
+      "edition": "mahler2-imslp415748-ue-scan",
+      "scoreFingerprint": "sha256:e56f9fb7f1e6507483b8cee8d806e722d95d9be8a8c265adf509dcd0e7d5d3f6",
+      "granularity": "page_system",
+      "status": "needs_review",
+      "method": "Offline full-work 10Hz chroma MrMsDTW between reference and project recording; SIFT/RANSAC page-turn recognition at 2 fps, with recorded visual corrections. Continuous-file-local seconds. Page/system follow only; no generated measure numbering.",
+      "sources": [
+        {
+          "title": "symphony7526：Mahler Symphony No. 2 with Score / Bernstein LSO",
+          "url": "https://www.youtube.com/watch?v=C-1d0OY6o0k",
+          "usage": "用户提供的整部跟谱视频作为离线翻页与声音对齐参考；不打包视频画面或参考音轨。"
+        },
+        {
+          "title": "IMSLP #415748 历史UE重印扫描",
+          "url": "https://imslp.org/wiki/Symphony_No.2_(Mahler,_Gustav)",
+          "usage": "使用同一历史UE重印扫描的原谱图像；页码为PDF页序，不把图像识别当作音符转录。"
+        },
+        {
+          "title": "Sync Toolbox / MIT",
+          "url": "https://github.com/groupmm/synctoolbox",
+          "usage": "本地离线生成估计时间映射；不是人工审阅或逐音定位。"
+        }
+      ],
+      "regions": [
+        {
+          "id": "ue-5-view-001",
+          "pages": [
+            {
+              "page": 134,
+              "url": "/assets/scores/work/page-134.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 135,
+              "url": "/assets/scores/work/page-135.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3186.5,
+          "sourceEnd": 3197.0
+        },
+        {
+          "id": "ue-5-view-002",
+          "pages": [
+            {
+              "page": 136,
+              "url": "/assets/scores/work/page-136.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 137,
+              "url": "/assets/scores/work/page-137.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3197.0,
+          "sourceEnd": 3207.0
+        },
+        {
+          "id": "ue-5-view-003",
+          "pages": [
+            {
+              "page": 138,
+              "url": "/assets/scores/work/page-138.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 139,
+              "url": "/assets/scores/work/page-139.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3207.0,
+          "sourceEnd": 3283.0
+        },
+        {
+          "id": "ue-5-view-004",
+          "pages": [
+            {
+              "page": 140,
+              "url": "/assets/scores/work/page-140.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.52829
+              ]
+            }
+          ],
+          "sourceStart": 3283.0,
+          "sourceEnd": 3340.0
+        },
+        {
+          "id": "ue-5-view-005",
+          "pages": [
+            {
+              "page": 140,
+              "url": "/assets/scores/work/page-140.webp",
+              "box": [
+                0,
+                0.41849,
+                1,
+                0.58151
+              ]
+            }
+          ],
+          "sourceStart": 3340.0,
+          "sourceEnd": 3359.5
+        },
+        {
+          "id": "ue-5-view-006",
+          "pages": [
+            {
+              "page": 141,
+              "url": "/assets/scores/work/page-141.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3359.5,
+          "sourceEnd": 3387.5
+        },
+        {
+          "id": "ue-5-view-007",
+          "pages": [
+            {
+              "page": 142,
+              "url": "/assets/scores/work/page-142.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.40742
+              ]
+            }
+          ],
+          "sourceStart": 3387.5,
+          "sourceEnd": 3430.0
+        },
+        {
+          "id": "ue-5-view-008",
+          "pages": [
+            {
+              "page": 142,
+              "url": "/assets/scores/work/page-142.webp",
+              "box": [
+                0,
+                0.53232,
+                1,
+                0.46768
+              ]
+            }
+          ],
+          "sourceStart": 3430.0,
+          "sourceEnd": 3449.0
+        },
+        {
+          "id": "ue-5-view-009",
+          "pages": [
+            {
+              "page": 143,
+              "url": "/assets/scores/work/page-143.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3449.0,
+          "sourceEnd": 3475.0
+        },
+        {
+          "id": "ue-5-view-010",
+          "pages": [
+            {
+              "page": 144,
+              "url": "/assets/scores/work/page-144.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.46723
+              ]
+            }
+          ],
+          "sourceStart": 3475.0,
+          "sourceEnd": 3498.0
+        },
+        {
+          "id": "ue-5-view-011",
+          "pages": [
+            {
+              "page": 144,
+              "url": "/assets/scores/work/page-144.webp",
+              "box": [
+                0,
+                0.32354,
+                1,
+                0.66322
+              ]
+            }
+          ],
+          "sourceStart": 3498.0,
+          "sourceEnd": 3517.5
+        },
+        {
+          "id": "ue-5-view-012",
+          "pages": [
+            {
+              "page": 145,
+              "url": "/assets/scores/work/page-145.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.55409
+              ]
+            }
+          ],
+          "sourceStart": 3517.5,
+          "sourceEnd": 3540.0
+        },
+        {
+          "id": "ue-5-view-013",
+          "pages": [
+            {
+              "page": 145,
+              "url": "/assets/scores/work/page-145.webp",
+              "box": [
+                0,
+                0.43465,
+                1,
+                0.55741
+              ]
+            }
+          ],
+          "sourceStart": 3540.0,
+          "sourceEnd": 3559.5
+        },
+        {
+          "id": "ue-5-view-014",
+          "pages": [
+            {
+              "page": 146,
+              "url": "/assets/scores/work/page-146.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.56435
+              ]
+            }
+          ],
+          "sourceStart": 3559.5,
+          "sourceEnd": 3572.5
+        },
+        {
+          "id": "ue-5-view-015",
+          "pages": [
+            {
+              "page": 146,
+              "url": "/assets/scores/work/page-146.webp",
+              "box": [
+                0,
+                0.44151,
+                1,
+                0.55849
+              ]
+            }
+          ],
+          "sourceStart": 3572.5,
+          "sourceEnd": 3581.0
+        },
+        {
+          "id": "ue-5-view-016",
+          "pages": [
+            {
+              "page": 147,
+              "url": "/assets/scores/work/page-147.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3581.0,
+          "sourceEnd": 3597.0
+        },
+        {
+          "id": "ue-5-view-017",
+          "pages": [
+            {
+              "page": 148,
+              "url": "/assets/scores/work/page-148.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.43839
+              ]
+            }
+          ],
+          "sourceStart": 3597.0,
+          "sourceEnd": 3642.0
+        },
+        {
+          "id": "ue-5-view-018",
+          "pages": [
+            {
+              "page": 148,
+              "url": "/assets/scores/work/page-148.webp",
+              "box": [
+                0,
+                0.31818,
+                1,
+                0.67837
+              ]
+            }
+          ],
+          "sourceStart": 3642.0,
+          "sourceEnd": 3686.5
+        },
+        {
+          "id": "ue-5-view-019",
+          "pages": [
+            {
+              "page": 149,
+              "url": "/assets/scores/work/page-149.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3686.5,
+          "sourceEnd": 3709.5
+        },
+        {
+          "id": "ue-5-view-020",
+          "pages": [
+            {
+              "page": 150,
+              "url": "/assets/scores/work/page-150.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 151,
+              "url": "/assets/scores/work/page-151.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3709.5,
+          "sourceEnd": 3750.5
+        },
+        {
+          "id": "ue-5-view-021",
+          "pages": [
+            {
+              "page": 152,
+              "url": "/assets/scores/work/page-152.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 153,
+              "url": "/assets/scores/work/page-153.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3750.5,
+          "sourceEnd": 3792.5
+        },
+        {
+          "id": "ue-5-view-022",
+          "pages": [
+            {
+              "page": 154,
+              "url": "/assets/scores/work/page-154.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 155,
+              "url": "/assets/scores/work/page-155.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3792.5,
+          "sourceEnd": 3854.0
+        },
+        {
+          "id": "ue-5-view-023",
+          "pages": [
+            {
+              "page": 156,
+              "url": "/assets/scores/work/page-156.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 157,
+              "url": "/assets/scores/work/page-157.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3854.0,
+          "sourceEnd": 3876.0
+        },
+        {
+          "id": "ue-5-view-024",
+          "pages": [
+            {
+              "page": 158,
+              "url": "/assets/scores/work/page-158.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 159,
+              "url": "/assets/scores/work/page-159.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3876.0,
+          "sourceEnd": 3905.5
+        },
+        {
+          "id": "ue-5-view-025",
+          "pages": [
+            {
+              "page": 160,
+              "url": "/assets/scores/work/page-160.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 161,
+              "url": "/assets/scores/work/page-161.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3905.5,
+          "sourceEnd": 3932.5
+        },
+        {
+          "id": "ue-5-view-026",
+          "pages": [
+            {
+              "page": 162,
+              "url": "/assets/scores/work/page-162.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 163,
+              "url": "/assets/scores/work/page-163.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3932.5,
+          "sourceEnd": 3956.5
+        },
+        {
+          "id": "ue-5-view-027",
+          "pages": [
+            {
+              "page": 164,
+              "url": "/assets/scores/work/page-164.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 165,
+              "url": "/assets/scores/work/page-165.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3956.5,
+          "sourceEnd": 3979.5
+        },
+        {
+          "id": "ue-5-view-028",
+          "pages": [
+            {
+              "page": 166,
+              "url": "/assets/scores/work/page-166.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 167,
+              "url": "/assets/scores/work/page-167.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3979.5,
+          "sourceEnd": 3998.5
+        },
+        {
+          "id": "ue-5-view-029",
+          "pages": [
+            {
+              "page": 168,
+              "url": "/assets/scores/work/page-168.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 169,
+              "url": "/assets/scores/work/page-169.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 3998.5,
+          "sourceEnd": 4020.5
+        },
+        {
+          "id": "ue-5-view-030",
+          "pages": [
+            {
+              "page": 170,
+              "url": "/assets/scores/work/page-170.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 171,
+              "url": "/assets/scores/work/page-171.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4020.5,
+          "sourceEnd": 4044.5
+        },
+        {
+          "id": "ue-5-view-031",
+          "pages": [
+            {
+              "page": 172,
+              "url": "/assets/scores/work/page-172.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 173,
+              "url": "/assets/scores/work/page-173.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4044.5,
+          "sourceEnd": 4065.5
+        },
+        {
+          "id": "ue-5-view-032",
+          "pages": [
+            {
+              "page": 174,
+              "url": "/assets/scores/work/page-174.webp",
+              "box": [
+                0,
+                0.01805,
+                1,
+                0.57333
+              ]
+            }
+          ],
+          "sourceStart": 4065.5,
+          "sourceEnd": 4089.5
+        },
+        {
+          "id": "ue-5-view-033",
+          "pages": [
+            {
+              "page": 174,
+              "url": "/assets/scores/work/page-174.webp",
+              "box": [
+                0,
+                0.46519,
+                1,
+                0.53481
+              ]
+            }
+          ],
+          "sourceStart": 4089.5,
+          "sourceEnd": 4102.5
+        },
+        {
+          "id": "ue-5-view-034",
+          "pages": [
+            {
+              "page": 175,
+              "url": "/assets/scores/work/page-175.webp",
+              "box": [
+                0,
+                0.01315,
+                1,
+                0.56265
+              ]
+            }
+          ],
+          "sourceStart": 4102.5,
+          "sourceEnd": 4112.0
+        },
+        {
+          "id": "ue-5-view-035",
+          "pages": [
+            {
+              "page": 175,
+              "url": "/assets/scores/work/page-175.webp",
+              "box": [
+                0,
+                0.45809,
+                1,
+                0.54191
+              ]
+            }
+          ],
+          "sourceStart": 4112.0,
+          "sourceEnd": 4120.0
+        },
+        {
+          "id": "ue-5-view-036",
+          "pages": [
+            {
+              "page": 176,
+              "url": "/assets/scores/work/page-176.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 177,
+              "url": "/assets/scores/work/page-177.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4120.0,
+          "sourceEnd": 4143.0
+        },
+        {
+          "id": "ue-5-view-037",
+          "pages": [
+            {
+              "page": 178,
+              "url": "/assets/scores/work/page-178.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 179,
+              "url": "/assets/scores/work/page-179.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4143.0,
+          "sourceEnd": 4165.5
+        },
+        {
+          "id": "ue-5-view-038",
+          "pages": [
+            {
+              "page": 180,
+              "url": "/assets/scores/work/page-180.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 181,
+              "url": "/assets/scores/work/page-181.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4165.5,
+          "sourceEnd": 4187.5
+        },
+        {
+          "id": "ue-5-view-039",
+          "pages": [
+            {
+              "page": 182,
+              "url": "/assets/scores/work/page-182.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 183,
+              "url": "/assets/scores/work/page-183.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4187.5,
+          "sourceEnd": 4250
+        },
+        {
+          "id": "ue-5-view-040",
+          "pages": [
+            {
+              "page": 184,
+              "url": "/assets/scores/work/page-184.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4250,
+          "sourceEnd": 4297.0
+        },
+        {
+          "id": "ue-5-view-041",
+          "pages": [
+            {
+              "page": 185,
+              "url": "/assets/scores/work/page-185.webp",
+              "box": [
+                0,
+                0.02703,
+                1,
+                0.47607
+              ]
+            }
+          ],
+          "sourceStart": 4297.0,
+          "sourceEnd": 4357.0
+        },
+        {
+          "id": "ue-5-view-042",
+          "pages": [
+            {
+              "page": 185,
+              "url": "/assets/scores/work/page-185.webp",
+              "box": [
+                0,
+                0.31785,
+                1,
+                0.47644
+              ]
+            }
+          ],
+          "sourceStart": 4357.0,
+          "sourceEnd": 4398.5
+        },
+        {
+          "id": "ue-5-view-043",
+          "pages": [
+            {
+              "page": 186,
+              "url": "/assets/scores/work/page-186.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.46584
+              ]
+            }
+          ],
+          "sourceStart": 4398.5,
+          "sourceEnd": 4417.5
+        },
+        {
+          "id": "ue-5-view-044",
+          "pages": [
+            {
+              "page": 186,
+              "url": "/assets/scores/work/page-186.webp",
+              "box": [
+                0,
+                0.14886,
+                1,
+                0.58087
+              ]
+            }
+          ],
+          "sourceStart": 4417.5,
+          "sourceEnd": 4452.0
+        },
+        {
+          "id": "ue-5-view-045",
+          "pages": [
+            {
+              "page": 186,
+              "url": "/assets/scores/work/page-186.webp",
+              "box": [
+                0,
+                0.57922,
+                1,
+                0.42078
+              ]
+            }
+          ],
+          "sourceStart": 4452.0,
+          "sourceEnd": 4510.5
+        },
+        {
+          "id": "ue-5-view-046",
+          "pages": [
+            {
+              "page": 187,
+              "url": "/assets/scores/work/page-187.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.4458
+              ]
+            }
+          ],
+          "sourceStart": 4510.5,
+          "sourceEnd": 4566.0
+        },
+        {
+          "id": "ue-5-view-047",
+          "pages": [
+            {
+              "page": 187,
+              "url": "/assets/scores/work/page-187.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4566.0,
+          "sourceEnd": 4599.0
+        },
+        {
+          "id": "ue-5-view-048",
+          "pages": [
+            {
+              "page": 188,
+              "url": "/assets/scores/work/page-188.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 189,
+              "url": "/assets/scores/work/page-189.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4599.0,
+          "sourceEnd": 4672.5
+        },
+        {
+          "id": "ue-5-view-049",
+          "pages": [
+            {
+              "page": 190,
+              "url": "/assets/scores/work/page-190.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.5
+              ]
+            }
+          ],
+          "sourceStart": 4672.5,
+          "sourceEnd": 4717
+        },
+        {
+          "id": "ue-5-view-050",
+          "pages": [
+            {
+              "page": 190,
+              "url": "/assets/scores/work/page-190.webp",
+              "box": [
+                0,
+                0.5,
+                1,
+                0.5
+              ]
+            }
+          ],
+          "sourceStart": 4717,
+          "sourceEnd": 4778.0
+        },
+        {
+          "id": "ue-5-view-051",
+          "pages": [
+            {
+              "page": 191,
+              "url": "/assets/scores/work/page-191.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4778.0,
+          "sourceEnd": 4828.5
+        },
+        {
+          "id": "ue-5-view-052",
+          "pages": [
+            {
+              "page": 192,
+              "url": "/assets/scores/work/page-192.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4828.5,
+          "sourceEnd": 4880.5
+        },
+        {
+          "id": "ue-5-view-053",
+          "pages": [
+            {
+              "page": 193,
+              "url": "/assets/scores/work/page-193.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.46731
+              ]
+            }
+          ],
+          "sourceStart": 4880.5,
+          "sourceEnd": 4905.0
+        },
+        {
+          "id": "ue-5-view-054",
+          "pages": [
+            {
+              "page": 193,
+              "url": "/assets/scores/work/page-193.webp",
+              "box": [
+                0,
+                0.38129,
+                1,
+                0.58851
+              ]
+            }
+          ],
+          "sourceStart": 4905.0,
+          "sourceEnd": 4924.5
+        },
+        {
+          "id": "ue-5-view-055",
+          "pages": [
+            {
+              "page": 194,
+              "url": "/assets/scores/work/page-194.webp",
+              "box": [
+                0,
+                0.03177,
+                1,
+                0.59261
+              ]
+            }
+          ],
+          "sourceStart": 4924.5,
+          "sourceEnd": 4939.5
+        },
+        {
+          "id": "ue-5-view-056",
+          "pages": [
+            {
+              "page": 194,
+              "url": "/assets/scores/work/page-194.webp",
+              "box": [
+                0,
+                0.52445,
+                1,
+                0.47555
+              ]
+            }
+          ],
+          "sourceStart": 4939.5,
+          "sourceEnd": 4955.0
+        },
+        {
+          "id": "ue-5-view-057",
+          "pages": [
+            {
+              "page": 195,
+              "url": "/assets/scores/work/page-195.webp",
+              "box": [
+                0,
+                0,
+                1,
+                0.48102
+              ]
+            }
+          ],
+          "sourceStart": 4955.0,
+          "sourceEnd": 4974.5
+        },
+        {
+          "id": "ue-5-view-058",
+          "pages": [
+            {
+              "page": 195,
+              "url": "/assets/scores/work/page-195.webp",
+              "box": [
+                0,
+                0.35805,
+                1,
+                0.62554
+              ]
+            }
+          ],
+          "sourceStart": 4974.5,
+          "sourceEnd": 4996.0
+        },
+        {
+          "id": "ue-5-view-059",
+          "pages": [
+            {
+              "page": 196,
+              "url": "/assets/scores/work/page-196.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 197,
+              "url": "/assets/scores/work/page-197.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 4996.0,
+          "sourceEnd": 5087.0
+        },
+        {
+          "id": "ue-5-view-060",
+          "pages": [
+            {
+              "page": 198,
+              "url": "/assets/scores/work/page-198.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 199,
+              "url": "/assets/scores/work/page-199.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5087.0,
+          "sourceEnd": 5116.5
+        },
+        {
+          "id": "ue-5-view-061",
+          "pages": [
+            {
+              "page": 200,
+              "url": "/assets/scores/work/page-200.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 201,
+              "url": "/assets/scores/work/page-201.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5116.5,
+          "sourceEnd": 5152.0
+        },
+        {
+          "id": "ue-5-view-062",
+          "pages": [
+            {
+              "page": 202,
+              "url": "/assets/scores/work/page-202.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 203,
+              "url": "/assets/scores/work/page-203.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5152.0,
+          "sourceEnd": 5199.5
+        },
+        {
+          "id": "ue-5-view-063",
+          "pages": [
+            {
+              "page": 204,
+              "url": "/assets/scores/work/page-204.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 205,
+              "url": "/assets/scores/work/page-205.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5199.5,
+          "sourceEnd": 5287.5
+        },
+        {
+          "id": "ue-5-view-064",
+          "pages": [
+            {
+              "page": 206,
+              "url": "/assets/scores/work/page-206.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 207,
+              "url": "/assets/scores/work/page-207.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5287.5,
+          "sourceEnd": 5322
+        },
+        {
+          "id": "ue-5-view-065",
+          "pages": [
+            {
+              "page": 208,
+              "url": "/assets/scores/work/page-208.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "page": 209,
+              "url": "/assets/scores/work/page-209.webp",
+              "box": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "sourceStart": 5322,
+          "sourceEnd": 5379.0
+        }
+      ],
+      "tracks": [
+        {
+          "id": "movement-5-continuous",
+          "fingerprint": "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476",
+          "duration": 2318.6666666666665,
+          "intervals": [
+            {
+              "regionId": "ue-5-view-001",
+              "start": 0,
+              "end": 8.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-002",
+              "start": 8.166667,
+              "end": 17.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-003",
+              "start": 17.666667,
+              "end": 87.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-004",
+              "start": 87.566667,
+              "end": 146.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-005",
+              "start": 146.666667,
+              "end": 168.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-006",
+              "start": 168.066667,
+              "end": 197.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-007",
+              "start": 197.266667,
+              "end": 240.916667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-008",
+              "start": 240.916667,
+              "end": 260.366667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-009",
+              "start": 260.366667,
+              "end": 287.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-010",
+              "start": 287.866667,
+              "end": 312.916667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-011",
+              "start": 312.916667,
+              "end": 333.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-012",
+              "start": 333.966667,
+              "end": 357.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-013",
+              "start": 357.866667,
+              "end": 380.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-014",
+              "start": 380.266667,
+              "end": 396.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-015",
+              "start": 396.066667,
+              "end": 405.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-016",
+              "start": 405.566667,
+              "end": 423.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-017",
+              "start": 423.066667,
+              "end": 474.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-018",
+              "start": 474.266667,
+              "end": 519.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-019",
+              "start": 519.966667,
+              "end": 542.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-020",
+              "start": 542.066667,
+              "end": 581.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-021",
+              "start": 581.466667,
+              "end": 623.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-022",
+              "start": 623.166667,
+              "end": 685.766667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-023",
+              "start": 685.766667,
+              "end": 708.116667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-024",
+              "start": 708.116667,
+              "end": 737.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-025",
+              "start": 737.866667,
+              "end": 764.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-026",
+              "start": 764.866667,
+              "end": 789.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-027",
+              "start": 789.066667,
+              "end": 812.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-028",
+              "start": 812.266667,
+              "end": 831.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-029",
+              "start": 831.566667,
+              "end": 853.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-030",
+              "start": 853.166667,
+              "end": 877.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-031",
+              "start": 877.066667,
+              "end": 899.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-032",
+              "start": 899.666667,
+              "end": 926.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-033",
+              "start": 926.666667,
+              "end": 939.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-034",
+              "start": 939.466667,
+              "end": 949.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-035",
+              "start": 949.166667,
+              "end": 957.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-036",
+              "start": 957.466667,
+              "end": 981.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-037",
+              "start": 981.666667,
+              "end": 1004.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-038",
+              "start": 1004.966667,
+              "end": 1026.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-039",
+              "start": 1026.666667,
+              "end": 1090.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-040",
+              "start": 1090.466667,
+              "end": 1142.366667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-041",
+              "start": 1142.366667,
+              "end": 1202.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-042",
+              "start": 1202.566667,
+              "end": 1249.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-043",
+              "start": 1249.866667,
+              "end": 1269.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-044",
+              "start": 1269.266667,
+              "end": 1305.866667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-045",
+              "start": 1305.866667,
+              "end": 1376.666667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-046",
+              "start": 1376.666667,
+              "end": 1441.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-047",
+              "start": 1441.966667,
+              "end": 1475.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-048",
+              "start": 1475.566667,
+              "end": 1556.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-049",
+              "start": 1556.966667,
+              "end": 1609.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-050",
+              "start": 1609.066667,
+              "end": 1679.066667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-051",
+              "start": 1679.066667,
+              "end": 1737.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-052",
+              "start": 1737.266667,
+              "end": 1793.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-053",
+              "start": 1793.166667,
+              "end": 1820.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-054",
+              "start": 1820.466667,
+              "end": 1842.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-055",
+              "start": 1842.466667,
+              "end": 1859.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-056",
+              "start": 1859.166667,
+              "end": 1875.566667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-057",
+              "start": 1875.566667,
+              "end": 1897.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-058",
+              "start": 1897.166667,
+              "end": 1921.166667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-059",
+              "start": 1921.166667,
+              "end": 2023.766667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-060",
+              "start": 2023.766667,
+              "end": 2054.766667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-061",
+              "start": 2054.766667,
+              "end": 2091.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-062",
+              "start": 2091.466667,
+              "end": 2138.966667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-063",
+              "start": 2138.966667,
+              "end": 2228.466667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-064",
+              "start": 2228.466667,
+              "end": 2263.266667,
+              "status": "needs_review"
+            },
+            {
+              "regionId": "ue-5-view-065",
+              "start": 2263.266667,
+              "end": 2318.6666666666665,
+              "status": "needs_review"
+            }
+          ]
+        }
+      ],
+      "evidence": {
+        "referenceVideoSHA256": "d7f862058cbff6b1e5ba110afbfe19b755cffd052f4ff2b104f9435765c2eaa8",
+        "referenceAudioSHA256": "f266a9f4ca2de90ce0a062058f38de5509eebbd22c377f9811992092e41c759e",
+        "targetFingerprints": [
+          "sha256:2fe2cfc8a02e6e502da8aaa3b199d54c07d370becf4f207fd74c33e51f06c99e",
+          "sha256:d4f1f8a7d93754929044afaca4a05434740bdce32e5124eafc976d0603ec1acd",
+          "sha256:2614c887b4b49c26a7b99a47b1e6a39edd292cb5e47d5aaa3cb178cb3dc91c0f",
+          "sha256:986b216a0533e5bae3e527865a0e8628ef0f083824f1eb6bee8093da6429f4af",
+          "sha256:0d227c7ac41f3af52618677d13955468ad24c70ec9d2466c7bd4b63e425f9476"
+        ],
+        "meanCosine": 0.8500342965126038,
+        "medianCosine": 0.9031491279602051,
+        "frameResolutionSeconds": 0.5,
+        "humanAuditionVerified": false,
+        "visualCorrections": [
+          {
+            "start": 3792.5,
+            "pages": [
+              {
+                "page": 154,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              },
+              {
+                "page": 155,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame at 3794s shows the Maestoso page 154 alongside page 155; automatic matcher found only the right page."
+          },
+          {
+            "start": 4250,
+            "pages": [
+              {
+                "page": 184,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame after the cut matches rehearsal 28 on PDF page 184; reject the degenerate half-image homography."
+          },
+          {
+            "start": 4672.5,
+            "pages": [
+              {
+                "page": 190,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  0.5
+                ]
+              }
+            ],
+            "reason": "Stable frame at 4675s shows rehearsal 35 / Wer du mich riefst, upper system of page 190."
+          },
+          {
+            "start": 4717,
+            "pages": [
+              {
+                "page": 190,
+                "bbox": [
+                  0,
+                  0.5,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame at 4719s shows rehearsal 36, lower system of page 190."
+          },
+          {
+            "start": 5322,
+            "pages": [
+              {
+                "page": 208,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              },
+              {
+                "page": 209,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frames at 5325/5340/5360s show the final two pages, rehearsals 50 and 51; matcher found only page 209."
+          }
+        ],
+        "pageMatches": [
+          {
+            "start": 3186.5,
+            "pages": [
+              {
+                "page": 134,
+                "inliers": 90,
+                "bbox": [
+                  -0.11349861323833466,
+                  0.024251652881503105,
+                  0.9647296667098999,
+                  0.9667917490005493
+                ]
+              },
+              {
+                "page": 135,
+                "inliers": 97,
+                "bbox": [
+                  0.02498718537390232,
+                  0.03735925629734993,
+                  1.1138598918914795,
+                  0.9616160988807678
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3197.0,
+            "pages": [
+              {
+                "page": 136,
+                "inliers": 57,
+                "bbox": [
+                  -0.11054464429616928,
+                  0.0328495167195797,
+                  0.9561309218406677,
+                  0.9672860503196716
+                ]
+              },
+              {
+                "page": 137,
+                "inliers": 50,
+                "bbox": [
+                  0.02727869525551796,
+                  0.03655780479311943,
+                  1.099900722503662,
+                  0.9659218788146973
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3207.0,
+            "pages": [
+              {
+                "page": 138,
+                "inliers": 62,
+                "bbox": [
+                  -0.11798383295536041,
+                  0.017864663153886795,
+                  0.967576801776886,
+                  0.9589661359786987
+                ]
+              },
+              {
+                "page": 139,
+                "inliers": 65,
+                "bbox": [
+                  0.02491031587123871,
+                  0.03668747469782829,
+                  1.1245473623275757,
+                  0.9625495076179504
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3283.0,
+            "pages": [
+              {
+                "page": 140,
+                "inliers": 92,
+                "bbox": [
+                  -0.13094830513000488,
+                  -0.013257927261292934,
+                  1.1186442375183105,
+                  0.5282871127128601
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3340.0,
+            "pages": [
+              {
+                "page": 140,
+                "inliers": 93,
+                "bbox": [
+                  -0.19974134862422943,
+                  0.418491005897522,
+                  1.1913336515426636,
+                  1.0158594846725464
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3359.5,
+            "pages": [
+              {
+                "page": 141,
+                "inliers": 86,
+                "bbox": [
+                  -0.6494669914245605,
+                  0.010238866321742535,
+                  0.5038700103759766,
+                  0.9865272641181946
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3387.5,
+            "pages": [
+              {
+                "page": 142,
+                "inliers": 85,
+                "bbox": [
+                  -0.05560090392827988,
+                  -0.07071080058813095,
+                  1.0538338422775269,
+                  0.40742233395576477
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3430.0,
+            "pages": [
+              {
+                "page": 142,
+                "inliers": 71,
+                "bbox": [
+                  -0.11053527891635895,
+                  0.532316267490387,
+                  1.1101503372192383,
+                  1.0544812679290771
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3449.0,
+            "pages": [
+              {
+                "page": 143,
+                "inliers": 57,
+                "bbox": [
+                  0.4927436113357544,
+                  0.02440870925784111,
+                  1.581065058708191,
+                  0.9420194029808044
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3475.0,
+            "pages": [
+              {
+                "page": 144,
+                "inliers": 97,
+                "bbox": [
+                  -0.09653767943382263,
+                  -0.055735595524311066,
+                  1.103568196296692,
+                  0.4672311544418335
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3498.0,
+            "pages": [
+              {
+                "page": 144,
+                "inliers": 141,
+                "bbox": [
+                  -0.2578243017196655,
+                  0.32354021072387695,
+                  1.2618757486343384,
+                  0.9867576360702515
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3517.5,
+            "pages": [
+              {
+                "page": 145,
+                "inliers": 77,
+                "bbox": [
+                  -0.15861371159553528,
+                  -0.008403579704463482,
+                  1.149294137954712,
+                  0.5540919899940491
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3540.0,
+            "pages": [
+              {
+                "page": 145,
+                "inliers": 49,
+                "bbox": [
+                  0.49632707238197327,
+                  0.43464696407318115,
+                  1.1475805044174194,
+                  0.9920579195022583
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3559.5,
+            "pages": [
+              {
+                "page": 146,
+                "inliers": 116,
+                "bbox": [
+                  -0.16457657516002655,
+                  -0.00655341474339366,
+                  1.1525192260742188,
+                  0.5643483400344849
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3572.5,
+            "pages": [
+              {
+                "page": 146,
+                "inliers": 106,
+                "bbox": [
+                  -0.16525907814502716,
+                  0.44151172041893005,
+                  1.1552499532699585,
+                  1.0054820775985718
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3581.0,
+            "pages": [
+              {
+                "page": 147,
+                "inliers": 40,
+                "bbox": [
+                  -0.6037444472312927,
+                  0.04726741462945938,
+                  0.4981310963630676,
+                  0.9683061838150024
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3597.0,
+            "pages": [
+              {
+                "page": 148,
+                "inliers": 66,
+                "bbox": [
+                  -0.0635414719581604,
+                  -0.04590045288205147,
+                  1.044745922088623,
+                  0.4383903741836548
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3642.0,
+            "pages": [
+              {
+                "page": 148,
+                "inliers": 139,
+                "bbox": [
+                  -0.2839907109737396,
+                  0.31818461418151855,
+                  1.2813438177108765,
+                  0.9965501427650452
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3686.5,
+            "pages": [
+              {
+                "page": 149,
+                "inliers": 85,
+                "bbox": [
+                  0.49250510334968567,
+                  0.032674193382263184,
+                  1.5622738599777222,
+                  0.9530735611915588
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3709.5,
+            "pages": [
+              {
+                "page": 150,
+                "inliers": 49,
+                "bbox": [
+                  -0.13402535021305084,
+                  0.04239577427506447,
+                  0.9642780423164368,
+                  0.9748032689094543
+                ]
+              },
+              {
+                "page": 151,
+                "inliers": 111,
+                "bbox": [
+                  0.006826743949204683,
+                  0.042735304683446884,
+                  1.1078367233276367,
+                  0.9611515998840332
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3750.5,
+            "pages": [
+              {
+                "page": 152,
+                "inliers": 73,
+                "bbox": [
+                  -0.12475249171257019,
+                  0.04146207496523857,
+                  0.960974931716919,
+                  0.9696649312973022
+                ]
+              },
+              {
+                "page": 153,
+                "inliers": 106,
+                "bbox": [
+                  0.031337935477495193,
+                  0.03373384848237038,
+                  1.11113703250885,
+                  0.9584477543830872
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3792.5,
+            "pages": [
+              {
+                "page": 154,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              },
+              {
+                "page": 155,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame at 3794s shows the Maestoso page 154 alongside page 155; automatic matcher found only the right page."
+          },
+          {
+            "start": 3854.0,
+            "pages": [
+              {
+                "page": 156,
+                "inliers": 156,
+                "bbox": [
+                  -0.13116681575775146,
+                  0.0342441163957119,
+                  0.9679474830627441,
+                  0.959071159362793
+                ]
+              },
+              {
+                "page": 157,
+                "inliers": 91,
+                "bbox": [
+                  0.009695526212453842,
+                  0.03353724628686905,
+                  1.1222503185272217,
+                  0.9779555797576904
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3876.0,
+            "pages": [
+              {
+                "page": 158,
+                "inliers": 78,
+                "bbox": [
+                  -0.12528826296329498,
+                  0.037903543561697006,
+                  0.978736937046051,
+                  0.9757004976272583
+                ]
+              },
+              {
+                "page": 159,
+                "inliers": 88,
+                "bbox": [
+                  0.018858542665839195,
+                  0.04177406057715416,
+                  1.1194344758987427,
+                  0.9753068089485168
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3905.5,
+            "pages": [
+              {
+                "page": 160,
+                "inliers": 77,
+                "bbox": [
+                  -0.12937262654304504,
+                  0.043590594083070755,
+                  0.9606479406356812,
+                  0.9682400226593018
+                ]
+              },
+              {
+                "page": 161,
+                "inliers": 91,
+                "bbox": [
+                  0.017870811745524406,
+                  0.040486276149749756,
+                  1.1211001873016357,
+                  0.9643142223358154
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3932.5,
+            "pages": [
+              {
+                "page": 162,
+                "inliers": 55,
+                "bbox": [
+                  -0.12087181955575943,
+                  0.04564327374100685,
+                  0.9666784405708313,
+                  0.9897422194480896
+                ]
+              },
+              {
+                "page": 163,
+                "inliers": 31,
+                "bbox": [
+                  0.02440076507627964,
+                  0.0379820354282856,
+                  1.1294012069702148,
+                  0.9847243428230286
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3956.5,
+            "pages": [
+              {
+                "page": 164,
+                "inliers": 62,
+                "bbox": [
+                  -0.11931859701871872,
+                  0.04456876963376999,
+                  0.9750988483428955,
+                  0.9776090979576111
+                ]
+              },
+              {
+                "page": 165,
+                "inliers": 80,
+                "bbox": [
+                  0.01876237243413925,
+                  0.04012947902083397,
+                  1.1192564964294434,
+                  0.9634221196174622
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3979.5,
+            "pages": [
+              {
+                "page": 166,
+                "inliers": 106,
+                "bbox": [
+                  -0.1334044486284256,
+                  0.017852917313575745,
+                  0.9582859873771667,
+                  0.962687611579895
+                ]
+              },
+              {
+                "page": 167,
+                "inliers": 114,
+                "bbox": [
+                  0.021158212795853615,
+                  0.032914381474256516,
+                  1.1220074892044067,
+                  0.9705507159233093
+                ]
+              }
+            ]
+          },
+          {
+            "start": 3998.5,
+            "pages": [
+              {
+                "page": 168,
+                "inliers": 104,
+                "bbox": [
+                  -0.12991391122341156,
+                  0.02749226987361908,
+                  0.965529203414917,
+                  0.9575405120849609
+                ]
+              },
+              {
+                "page": 169,
+                "inliers": 180,
+                "bbox": [
+                  0.018507739529013634,
+                  0.04226376861333847,
+                  1.1208479404449463,
+                  0.961448073387146
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4020.5,
+            "pages": [
+              {
+                "page": 170,
+                "inliers": 151,
+                "bbox": [
+                  -0.11377129703760147,
+                  0.02937011606991291,
+                  0.9727761745452881,
+                  0.9621113538742065
+                ]
+              },
+              {
+                "page": 171,
+                "inliers": 127,
+                "bbox": [
+                  0.02591194584965706,
+                  0.03340457007288933,
+                  1.1188796758651733,
+                  0.9628147482872009
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4044.5,
+            "pages": [
+              {
+                "page": 172,
+                "inliers": 49,
+                "bbox": [
+                  -0.1245810016989708,
+                  0.030077850446105003,
+                  0.9644534587860107,
+                  0.9617454409599304
+                ]
+              },
+              {
+                "page": 173,
+                "inliers": 70,
+                "bbox": [
+                  0.015361986123025417,
+                  0.0392669215798378,
+                  1.1208653450012207,
+                  0.965650200843811
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4065.5,
+            "pages": [
+              {
+                "page": 174,
+                "inliers": 42,
+                "bbox": [
+                  -0.15842536091804504,
+                  0.018053803592920303,
+                  1.1608853340148926,
+                  0.5913876891136169
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4089.5,
+            "pages": [
+              {
+                "page": 174,
+                "inliers": 41,
+                "bbox": [
+                  -0.15930072963237762,
+                  0.46519285440444946,
+                  1.1619460582733154,
+                  1.0394560098648071
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4102.5,
+            "pages": [
+              {
+                "page": 175,
+                "inliers": 71,
+                "bbox": [
+                  -0.18213866651058197,
+                  0.013150928542017937,
+                  1.154902458190918,
+                  0.5758023858070374
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4112.0,
+            "pages": [
+              {
+                "page": 175,
+                "inliers": 49,
+                "bbox": [
+                  -0.16284480690956116,
+                  0.4580853581428528,
+                  1.1719751358032227,
+                  1.0222378969192505
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4120.0,
+            "pages": [
+              {
+                "page": 176,
+                "inliers": 72,
+                "bbox": [
+                  -0.1323195993900299,
+                  0.05363992601633072,
+                  0.9624691009521484,
+                  0.9821115732192993
+                ]
+              },
+              {
+                "page": 177,
+                "inliers": 90,
+                "bbox": [
+                  0.02405083365738392,
+                  0.033230703324079514,
+                  1.1249709129333496,
+                  0.9676315784454346
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4143.0,
+            "pages": [
+              {
+                "page": 178,
+                "inliers": 119,
+                "bbox": [
+                  -0.11907599866390228,
+                  0.04091086983680725,
+                  0.9722404479980469,
+                  0.9641719460487366
+                ]
+              },
+              {
+                "page": 179,
+                "inliers": 72,
+                "bbox": [
+                  0.020277276635169983,
+                  0.04058035463094711,
+                  1.1206246614456177,
+                  0.9618009328842163
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4165.5,
+            "pages": [
+              {
+                "page": 180,
+                "inliers": 97,
+                "bbox": [
+                  -0.12451235204935074,
+                  0.028553439304232597,
+                  0.9656516909599304,
+                  0.9619260430335999
+                ]
+              },
+              {
+                "page": 181,
+                "inliers": 66,
+                "bbox": [
+                  0.028036031872034073,
+                  0.03303719311952591,
+                  1.1270662546157837,
+                  0.9662718176841736
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4187.5,
+            "pages": [
+              {
+                "page": 182,
+                "inliers": 30,
+                "bbox": [
+                  -0.11863769590854645,
+                  0.02326478809118271,
+                  0.9677770733833313,
+                  0.9629231095314026
+                ]
+              },
+              {
+                "page": 183,
+                "inliers": 35,
+                "bbox": [
+                  0.023350931704044342,
+                  0.026436973363161087,
+                  1.1174598932266235,
+                  0.954758882522583
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4250,
+            "pages": [
+              {
+                "page": 184,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame after the cut matches rehearsal 28 on PDF page 184; reject the degenerate half-image homography."
+          },
+          {
+            "start": 4297.0,
+            "pages": [
+              {
+                "page": 185,
+                "inliers": 49,
+                "bbox": [
+                  -0.06405338644981384,
+                  0.0270313061773777,
+                  1.064884066581726,
+                  0.503105103969574
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4357.0,
+            "pages": [
+              {
+                "page": 185,
+                "inliers": 135,
+                "bbox": [
+                  -0.06653312593698502,
+                  0.3178524374961853,
+                  1.056707739830017,
+                  0.7942904233932495
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4398.5,
+            "pages": [
+              {
+                "page": 186,
+                "inliers": 40,
+                "bbox": [
+                  -0.08373437821865082,
+                  -0.10617358982563019,
+                  1.0620208978652954,
+                  0.46583622694015503
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4417.5,
+            "pages": [
+              {
+                "page": 186,
+                "inliers": 21,
+                "bbox": [
+                  -0.0995437502861023,
+                  0.1488562822341919,
+                  1.1865119934082031,
+                  0.729728102684021
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4452.0,
+            "pages": [
+              {
+                "page": 186,
+                "inliers": 26,
+                "bbox": [
+                  -0.0623253732919693,
+                  0.5792161226272583,
+                  0.989417314529419,
+                  1.0994179248809814
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4510.5,
+            "pages": [
+              {
+                "page": 187,
+                "inliers": 51,
+                "bbox": [
+                  -0.10725481808185577,
+                  -0.09189894795417786,
+                  1.0442352294921875,
+                  0.4458044469356537
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4566.0,
+            "pages": [
+              {
+                "page": 187,
+                "inliers": 34,
+                "bbox": [
+                  -0.26895245909690857,
+                  0.2535691559314728,
+                  1.2845500707626343,
+                  0.9893817901611328
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4599.0,
+            "pages": [
+              {
+                "page": 188,
+                "inliers": 69,
+                "bbox": [
+                  -0.1256568878889084,
+                  0.040884293615818024,
+                  0.9574733972549438,
+                  0.9659868478775024
+                ]
+              },
+              {
+                "page": 189,
+                "inliers": 66,
+                "bbox": [
+                  0.01990451104938984,
+                  0.037594325840473175,
+                  1.1164095401763916,
+                  0.957222580909729
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4672.5,
+            "pages": [
+              {
+                "page": 190,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  0.5
+                ]
+              }
+            ],
+            "reason": "Stable frame at 4675s shows rehearsal 35 / Wer du mich riefst, upper system of page 190."
+          },
+          {
+            "start": 4717,
+            "pages": [
+              {
+                "page": 190,
+                "bbox": [
+                  0,
+                  0.5,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frame at 4719s shows rehearsal 36, lower system of page 190."
+          },
+          {
+            "start": 4778.0,
+            "pages": [
+              {
+                "page": 191,
+                "inliers": 40,
+                "bbox": [
+                  -0.6062455773353577,
+                  0.05209307745099068,
+                  0.4982311725616455,
+                  0.9834778904914856
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4828.5,
+            "pages": [
+              {
+                "page": 192,
+                "inliers": 33,
+                "bbox": [
+                  0.4949442446231842,
+                  0.0368768572807312,
+                  1.5940922498703003,
+                  0.9615761041641235
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4880.5,
+            "pages": [
+              {
+                "page": 193,
+                "inliers": 37,
+                "bbox": [
+                  -0.06881017982959747,
+                  -0.004585742484778166,
+                  1.0522490739822388,
+                  0.4673064947128296
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4905.0,
+            "pages": [
+              {
+                "page": 193,
+                "inliers": 53,
+                "bbox": [
+                  -0.20587442815303802,
+                  0.38128936290740967,
+                  1.1959720849990845,
+                  0.9698006510734558
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4924.5,
+            "pages": [
+              {
+                "page": 194,
+                "inliers": 66,
+                "bbox": [
+                  -0.19725236296653748,
+                  0.031768836081027985,
+                  1.2003661394119263,
+                  0.6243828535079956
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4939.5,
+            "pages": [
+              {
+                "page": 194,
+                "inliers": 57,
+                "bbox": [
+                  -0.08787287026643753,
+                  0.5244508981704712,
+                  1.0774290561676025,
+                  1.0210514068603516
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4955.0,
+            "pages": [
+              {
+                "page": 195,
+                "inliers": 74,
+                "bbox": [
+                  -0.09620515257120132,
+                  -0.01678120531141758,
+                  1.080412745475769,
+                  0.48102253675460815
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4974.5,
+            "pages": [
+              {
+                "page": 195,
+                "inliers": 109,
+                "bbox": [
+                  -0.25692927837371826,
+                  0.3580527901649475,
+                  1.221089243888855,
+                  0.9835899472236633
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4996.0,
+            "pages": [
+              {
+                "page": 196,
+                "inliers": 50,
+                "bbox": [
+                  -0.11913759261369705,
+                  0.02819199301302433,
+                  0.9701650142669678,
+                  0.9617427587509155
+                ]
+              },
+              {
+                "page": 197,
+                "inliers": 45,
+                "bbox": [
+                  0.022625504061579704,
+                  0.03269154205918312,
+                  1.1193069219589233,
+                  0.962230920791626
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5087.0,
+            "pages": [
+              {
+                "page": 198,
+                "inliers": 42,
+                "bbox": [
+                  -0.13535231351852417,
+                  0.040078699588775635,
+                  0.9642181396484375,
+                  0.9665103554725647
+                ]
+              },
+              {
+                "page": 199,
+                "inliers": 34,
+                "bbox": [
+                  0.01302217785269022,
+                  0.03938436508178711,
+                  1.1187883615493774,
+                  0.9662701487541199
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5116.5,
+            "pages": [
+              {
+                "page": 200,
+                "inliers": 59,
+                "bbox": [
+                  -0.12069593369960785,
+                  0.042161986231803894,
+                  0.9622056484222412,
+                  0.9686188101768494
+                ]
+              },
+              {
+                "page": 201,
+                "inliers": 102,
+                "bbox": [
+                  0.010072790086269379,
+                  0.0378301776945591,
+                  1.1197519302368164,
+                  0.9629877209663391
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5152.0,
+            "pages": [
+              {
+                "page": 202,
+                "inliers": 63,
+                "bbox": [
+                  -0.12419580668210983,
+                  0.02492525428533554,
+                  0.9715010523796082,
+                  0.9645581841468811
+                ]
+              },
+              {
+                "page": 203,
+                "inliers": 35,
+                "bbox": [
+                  0.009990381076931953,
+                  0.031336646527051926,
+                  1.1060452461242676,
+                  0.9636314511299133
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5199.5,
+            "pages": [
+              {
+                "page": 204,
+                "inliers": 93,
+                "bbox": [
+                  -0.12208372354507446,
+                  0.02297056093811989,
+                  0.9724680781364441,
+                  0.9635026454925537
+                ]
+              },
+              {
+                "page": 205,
+                "inliers": 49,
+                "bbox": [
+                  0.012409411370754242,
+                  0.026257546618580818,
+                  1.1226109266281128,
+                  0.9713303446769714
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5287.5,
+            "pages": [
+              {
+                "page": 206,
+                "inliers": 67,
+                "bbox": [
+                  -0.13173463940620422,
+                  0.0314355343580246,
+                  0.9631157517433167,
+                  0.957827091217041
+                ]
+              },
+              {
+                "page": 207,
+                "inliers": 84,
+                "bbox": [
+                  0.00394061766564846,
+                  0.03962643817067146,
+                  1.11771559715271,
+                  0.9635135531425476
+                ]
+              }
+            ]
+          },
+          {
+            "start": 5322,
+            "pages": [
+              {
+                "page": 208,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              },
+              {
+                "page": 209,
+                "bbox": [
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              }
+            ],
+            "reason": "Stable frames at 5325/5340/5360s show the final two pages, rehearsals 50 and 51; matcher found only page 209."
+          }
+        ]
+      }
+    }
+  ]
+}

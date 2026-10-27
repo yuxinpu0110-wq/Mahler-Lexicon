@@ -1,0 +1,48 @@
+{
+  "name": "mahler-lexicon",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run",
+    "content:check": "node scripts/check-content.mjs",
+    "recording:prepare": "node scripts/prepare-recording.mjs && node scripts/prepare-continuous.mjs",
+    "prebuild": "npm run recording:prepare",
+    "predev": "npm run recording:prepare",
+    "preview": "vite preview --host 127.0.0.1",
+    "assets:check": "node scripts/check-assets.mjs",
+    "test:recording": "node scripts/check-whole-recording.mjs",
+    "test:production": "node scripts/check-whole-recording.mjs --production",
+    "test:alignment": "node scripts/check-alignment-drafts.mjs",
+    "test:sync": "node scripts/check-score-sync.mjs",
+    "test:guide": "node scripts/check-listening-guide.mjs",
+    "test:editor": "node scripts/check-content-editor.mjs",
+    "test:continuous": "node scripts/check-continuous-audio.mjs",
+    "test:browser": "node browser-check.mjs",
+    "test:authors": "node scripts/check-author-guides.mjs",
+    "test:work-sync": "node scripts/check-work-score-sync.mjs",
+    "test:lyrics": "node scripts/check-lyrics.mjs",
+    "test:work-measures": "node scripts/check-work-measures.mjs",
+    "test:webui": "node scripts/check-webui.mjs",
+    "test:score-motion": "node scripts/check-score-motion.mjs",
+    "test:atmosphere": "node scripts/check-listening-atmosphere.mjs",
+    "release:package": "npm run build && node scripts/package-release.mjs",
+    "test:portable": "node scripts/check-portable.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "music-metadata": "^12.2.3",
+    "typescript": "^5.7.0",
+    "vite": "^6.1.0",
+    "vitest": "^5.0.5"
+  }
+}
