@@ -6,7 +6,7 @@
 
 发行包适用于 Windows 10／11 的 x64 电脑，内置运行环境、五个完整乐章录音及谱页。完整解压后双击 `START.cmd`，浏览器会自动打开；无需另装 Node.js、FFmpeg 或导入音频。详细操作与常见问题见[使用指南](使用指南.md)。
 
-此目录下的 `Mahler-Lexicon-*-windows-x64/` 是本地生成的独立成品目录，对应 ZIP 作为 Release 附件上传，不进入 Git。可复制整个文件夹给同学。
+此目录下的 `Mahler-Lexicon-*-windows-x64/` 是本地生成的独立成品目录，对应 ZIP 作为 Release 附件上传，不进入 Git。可复制整个文件夹到其他电脑使用。
 
 开发者重新封装：
 
