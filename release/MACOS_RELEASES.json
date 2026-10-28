@@ -1,0 +1,18 @@
+[
+  {
+    "archive": "Mahler-Lexicon-v0.1.0-macos-arm64.zip",
+    "bytes": 522375690,
+    "sha256": "285998026c59cae1ce2e0fcf23ee8506f3395ab8c9ef16ac286dec25a6c2321c",
+    "platform": "macos-arm64",
+    "files": 228,
+    "nativeTested": false
+  },
+  {
+    "archive": "Mahler-Lexicon-v0.1.0-macos-x64.zip",
+    "bytes": 523589393,
+    "sha256": "76f67cb9be495296b0ae59f33e4b1c0c45eb270f36a02975a02bfbe0e28328d3",
+    "platform": "macos-x64",
+    "files": 228,
+    "nativeTested": false
+  }
+]

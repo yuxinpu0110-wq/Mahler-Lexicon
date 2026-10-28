@@ -1,3 +1,4 @@
 Recording/** binary
 *.flac binary
 *.m4a binary
+*.command text eol=lf

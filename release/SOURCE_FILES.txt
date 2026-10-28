@@ -324,6 +324,9 @@ Recording/Mahler Symphony No. 2 Resurrection/2-15 Symphony No. 2 in C Minor ''Re
 Recording/Mahler Symphony No. 2 Resurrection/cover.jpg
 release/launcher/server.mjs
 release/launcher/START.cmd
+release/launcher/START.command
+release/MACOS_RELEASES.json
+release/macOS使用指南.md
 release/README.md
 release/RELEASE_NOTES.md
 release/SOURCE_FILES.txt
@@ -331,6 +334,7 @@ release/使用指南.md
 release/本轮上传清单.md
 scripts/audio-range.mjs
 scripts/audit-publication.mjs
+scripts/check_macos_package.py
 scripts/check-alignment-drafts.mjs
 scripts/check-assets.mjs
 scripts/check-author-guides.mjs
@@ -347,6 +351,7 @@ scripts/check-webui.mjs
 scripts/check-whole-recording.mjs
 scripts/check-work-measures.mjs
 scripts/check-work-score-sync.mjs
+scripts/package_macos.py
 scripts/package-release.mjs
 scripts/prepare-continuous.mjs
 scripts/prepare-recording.mjs

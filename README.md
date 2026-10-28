@@ -6,7 +6,9 @@
 
 前往 [GitHub Releases 下载页](https://github.com/yuxinpu0110-wq/Mahler-Lexicon/releases/latest)，在 **Assets** 下载 `Mahler-Lexicon-*-windows-x64.zip`，完整解压后双击 **START.cmd**。这是 Windows 10／11 x64 免安装包，已包含运行环境、五个完整乐章录音和谱面，无需安装 Node.js／FFmpeg，也无需导入音频。
 
-详细操作、推荐体验顺序、离线使用和常见问题见[使用指南](release/使用指南.md)。**“Code → Download ZIP” 是源码，不是免安装包。** 本次免安装附件仅验证 Windows x64；macOS／Linux 可使用下面的源码启动方式。
+Mac 用户可在同一下载页选择 `macos-arm64.zip`（Apple 芯片）或 `macos-x64.zip`（Intel），解压后运行 `START.command`，需要 macOS 13.5及以上。Mac包已校验架构、文件哈希与可执行权限，尚未完成Mac实机验收，详见[macOS使用指南](release/macOS使用指南.md)。
+
+详细操作、推荐体验顺序、离线使用和常见问题见[使用指南](release/使用指南.md)。**“Code → Download ZIP” 是源码，不是便携版。** Linux 及需要开发的用户可使用下面的源码启动方式。
 
 ## 开发者：从源码启动
 
